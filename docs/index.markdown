@@ -1,0 +1,26 @@
+### Server Image Products
+Code | Description | O/S | B/S Size(GB)
+-- | -- | -- | --
+SW.VSVR.OS.LNX64.CNTOS.0703.B050 | CentOS 7.3 (64-bit) | Linux | 50
+SW.VSVR.OS.LNX64.CNTOS.0708.B050 | CentOS 7.8 (64-bit) | Linux | 50
+SW.VSVR.APP.LNX64.CNTOS.0708.JEUS.LATEST.B050 | CentOS 7.8 (64-bit) with JEUS | Linux | 50
+SW.VSVR.APP.LNX64.CNTOS.0708.TNSFL.LATEST.B050 | CentOS 7.8 (64-bit) with Tensorflow | Linux | 50
+SW.VSVR.APP.LNX64.CNTOS.0708.TOMCT.LATEST.B050 | CentOS 7.8 (64-bit) with Tomcat | Linux | 50
+SW.VSVR.APP.LNX64.CNTOS.0708.WEBTB.LATEST.B050 | CentOS 7.8 (64-bit) with WebtoB | Linux | 50
+SW.VSVR.APP.LNX64.UBNTU.SVR1604.JEUS.LATEST.B050 | Ubuntu 16.04 (64-bit) with JEUS | Linux | 50
+SW.VSVR.APP.LNX64.UBNTU.SVR1604.SPRPG.LATEST.B050 | Ubuntu 16.04 (64-bit) with Superset | Linux | 50
+SW.VSVR.APP.LNX64.UBNTU.SVR1604.TNSFL.LATEST.B050 | Ubuntu 16.04 (64-bit) with Tensorflow | Linux | 50
+SW.VSVR.APP.LNX64.UBNTU.SVR1604.TOMCT.LATEST.B050 | Ubuntu 16.04 (64-bit) with Tomcat | Linux | 50
+SW.VSVR.APP.LNX64.UBNTU.SVR1604.WEBTB.LATEST.B050 | Ubuntu 16.04 (64-bit) with WebtoB | Linux | 50
+SW.VSVR.OS.LNX64.UBNTU.SVR1604.B050 | Ubuntu Server 16.04 (64-bit)  | Linux | 50
+SW.VSVR.OS.LNX64.UBNTU.SVR1804.B050 | Ubuntu Server 18.04 (64-bit)  | Linux | 50
+SW.VSVR.DBMS.WND64.WND.SVR2016STDEN.MSSQL.2017.B100 | Windows 2016 Server R2 with MSSQL 2017 Standard English Edition | Windows NT | 100
+SW.VSVR.DBMS.WND64.WND.SVR2016STDEN.MSSQL.2019.B100 | Windows 2016 Server R2 with MSSQL 2019 Standard English Edition | Windows NT | 100
+SW.VSVR.DBMS.WND64.WND.SVR2019STDEN.MSSQL.2019.B100 | Windows 2019 Server R2 with MSSQL 2019 Standard English Edition | Windows NT | 100
+SW.VSVR.APP.LNX64.CNTOS.0703.PINPT.173.B050 | CentOS 7.3 with Pinpoint 1.7.3 | Linux | 50
+SW.VSVR.APP.LNX64.CNTOS.0708.PINPT.LATEST.B050 | CentOS 7.8 with Pinpoint | Linux | 50
+SW.VSVR.DBMS.LNX64.CNTOS.0708.TBERO.LATEST.B050 | CentOS 7.8 with Tibero | Linux | 50
+SW.VSVR.OS.WND64.WND.SVR2016EN.B100 | Windows Server 2016 (64-bit) English Edition | Windows NT | 100
+SW.VSVR.APP.LNX64.CNTOS.0708.RBBT.LATEST.B050 | CentOS 7.8 with RabbitMQ | Linux | 50
+SW.VSVR.APP.LNX64.CNTOS.0708.DCOMM.LATEST.B050 | CentOS 7.8 (64-bit) with META Commerce | Linux | 50
+SW.VSVR.OS.WND64.WND.SVR2019EN.B100 | Windows Server 2019 (64-bit) English Edition | Windows NT | 100
