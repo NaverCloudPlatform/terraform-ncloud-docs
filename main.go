@@ -60,11 +60,11 @@ func main() {
 func createMarkdownImages(products []*vserver.Product, title string, productPath string) string {
 	var b bytes.Buffer
 	b.WriteString("### " + title + "\n\n")
-	b.WriteString("Code | Description | O/S | B/S Size(GB)\n")
+	b.WriteString("Description | Image code | Type | B/S Size(GB)\n")
 	b.WriteString("-- | -- | -- | --\n")
 
 	for _, r := range products {
-		b.WriteString(fmt.Sprintf("%s | [%s](%s/%s.md) | %s | %d\n", ncloud.StringValue(r.ProductCode), ncloud.StringValue(r.ProductDescription), productPath, url.QueryEscape(ncloud.StringValue(r.ProductName)), ncloud.StringValue(r.ProductType.CodeName), ncloud.Int64Value(r.BaseBlockStorageSize)/GIGA_BYTE))
+		b.WriteString(fmt.Sprintf("[%s](%s/%s.md) | %s | %s | %d\n", ncloud.StringValue(r.ProductDescription), productPath, url.QueryEscape(ncloud.StringValue(r.ProductName)), ncloud.StringValue(r.ProductCode), ncloud.StringValue(r.ProductType.CodeName), ncloud.Int64Value(r.BaseBlockStorageSize)/GIGA_BYTE))
 	}
 
 	return b.String()
@@ -74,11 +74,11 @@ func createMarkdownProducts(title string, products []*vserver.Product) string {
 	var b bytes.Buffer
 	b.WriteString("### Server Products\n")
 	b.WriteString("#### " + title + "\n\n")
-	b.WriteString("Code | Description | Type\n")
+	b.WriteString("Description | Product code | Type\n")
 	b.WriteString("-- | -- | --\n")
 
 	for _, r := range products {
-		b.WriteString(fmt.Sprintf("%s | %s | %s\n", ncloud.StringValue(r.ProductCode), ncloud.StringValue(r.ProductDescription), ncloud.StringValue(r.ProductType.Code)))
+		b.WriteString(fmt.Sprintf("%s | %s | %s\n", ncloud.StringValue(r.ProductDescription), ncloud.StringValue(r.ProductCode), ncloud.StringValue(r.ProductType.Code)))
 	}
 
 	return b.String()
