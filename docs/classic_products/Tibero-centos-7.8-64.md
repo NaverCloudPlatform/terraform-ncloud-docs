@@ -1,7 +1,7 @@
 ### Server Products
 #### Server Image (CentOS 7.8 with Tibero) - SPSW0LINUX000157
 
-Description | Code | Type
+Description | Product code | Type
 -- | -- | --
 vCPU 1개, 메모리 2GB, 디스크 50GB | SPSVRSTAND000003 | COMPT
 vCPU 2EA, Memory 2GB, Disk 50GB | SPSVRSTAND000049 | COMPT

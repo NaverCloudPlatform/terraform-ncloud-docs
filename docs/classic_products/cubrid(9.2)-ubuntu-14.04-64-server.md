@@ -1,7 +1,7 @@
 ### Server Products
 #### Server Image (Ubuntu Server 14.04 with Cubrid 9.2) - SPSW0LINUX000058
 
-Description | Code | Type
+Description | Product code | Type
 -- | -- | --
 vCPU 2EA, Memory 4GB, Disk 50GB | SPSVRHICPU000001 | HICPU
 vCPU 4EA, Memory 8GB, Disk 50GB | SPSVRHICPU000002 | HICPU

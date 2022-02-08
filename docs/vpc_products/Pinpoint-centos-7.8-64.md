@@ -1,7 +1,7 @@
 ### Server Products
 #### Server Image (CentOS 7.8 with Pinpoint) - SW.VSVR.APP.LNX64.CNTOS.0708.PINPT.LATEST.B050
 
-Description | Code | Type
+Description | Product code | Type
 -- | -- | --
 vCPU 2EA, Memory 4GB, Disk 50GB | SVR.VSVR.CPU.C002.M004.NET.HDD.B050.G002 | CPU
 vCPU 2EA, Memory 4GB, [SSD]Disk 50GB | SVR.VSVR.CPU.C002.M004.NET.SSD.B050.G002 | CPU

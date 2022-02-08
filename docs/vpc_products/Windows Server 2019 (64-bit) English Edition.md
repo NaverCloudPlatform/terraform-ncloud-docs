@@ -1,7 +1,7 @@
 ### Server Products
 #### Server Image (Windows Server 2019 (64-bit) English Edition) - SW.VSVR.OS.WND64.WND.SVR2019EN.B100
 
-Description | Code | Type
+Description | Product code | Type
 -- | -- | --
 vCPU 2EA, Memory 4GB, Disk 100GB | SVR.VSVR.HICPU.C002.M004.NET.HDD.B100.G002 | HICPU
 vCPU 2EA, Memory 4GB, [SSD]Disk 100GB | SVR.VSVR.HICPU.C002.M004.NET.SSD.B100.G002 | HICPU

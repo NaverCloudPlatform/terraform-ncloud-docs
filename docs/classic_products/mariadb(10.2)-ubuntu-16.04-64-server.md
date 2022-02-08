@@ -1,7 +1,7 @@
 ### Server Products
 #### Server Image (Ubuntu Server 16.04 with MariaDB 10.2) - SPSW0LINUX000073
 
-Description | Code | Type
+Description | Product code | Type
 -- | -- | --
 vCPU 2EA, Memory 4GB, Disk 50GB | SPSVRHICPU000001 | HICPU
 vCPU 4EA, Memory 8GB, Disk 50GB | SPSVRHICPU000002 | HICPU

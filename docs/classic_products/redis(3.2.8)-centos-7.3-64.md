@@ -1,7 +1,7 @@
 ### Server Products
 #### Server Image (CentOS 7.3 with Redis 4.0.14) - SPSW0LINUX000114
 
-Description | Code | Type
+Description | Product code | Type
 -- | -- | --
 vCPU 2EA, Memory 4GB, Disk 50GB | SPSVRHICPU000001 | HICPU
 vCPU 4EA, Memory 8GB, Disk 50GB | SPSVRHICPU000002 | HICPU

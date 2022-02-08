@@ -1,7 +1,7 @@
 ### Server Products
 #### Server Image (Ubuntu Server 18.04 (64-bit) ) - SW.VSVR.OS.LNX64.UBNTU.SVR1804.B050
 
-Description | Code | Type
+Description | Product code | Type
 -- | -- | --
 vCPU 2EA, Memory 4GB, Disk 50GB | SVR.VSVR.HICPU.C002.M004.NET.HDD.B050.G002 | HICPU
 vCPU 2EA, Memory 4GB, [SSD]Disk 50GB | SVR.VSVR.HICPU.C002.M004.NET.SSD.B050.G002 | HICPU

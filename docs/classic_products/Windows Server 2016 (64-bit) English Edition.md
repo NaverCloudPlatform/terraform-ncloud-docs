@@ -1,7 +1,7 @@
 ### Server Products
 #### Server Image (Windows Server 2016 (64-bit) English Edition) - SPSW0WINNTEN0016A
 
-Description | Code | Type
+Description | Product code | Type
 -- | -- | --
 vCPU 2EA, Memory 4GB, Disk 100GB | SPSVRHICPU000001A | HICPU
 vCPU 4EA, Memory 8GB, Disk 100GB | SPSVRHICPU000002A | HICPU

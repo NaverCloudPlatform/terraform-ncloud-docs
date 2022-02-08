@@ -1,7 +1,7 @@
 ### Server Products
 #### Server Image (Windows 2016 Server with MSSQL 2017 Standard English Edition) - SPSW0WINNTEN0050A
 
-Description | Code | Type
+Description | Product code | Type
 -- | -- | --
 vCPU 2EA, Memory 4GB, Disk 100GB | SPSVRHICPU000001A | HICPU
 vCPU 4EA, Memory 8GB, Disk 100GB | SPSVRHICPU000002A | HICPU

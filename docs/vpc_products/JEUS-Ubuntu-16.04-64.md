@@ -1,7 +1,7 @@
 ### Server Products
 #### Server Image (Ubuntu 16.04 (64-bit) with JEUS) - SW.VSVR.APP.LNX64.UBNTU.SVR1604.JEUS.LATEST.B050
 
-Description | Code | Type
+Description | Product code | Type
 -- | -- | --
 vCPU 2EA, Memory 4GB, Disk 50GB | SVR.VSVR.HICPU.C002.M004.NET.HDD.B050.G002 | HICPU
 vCPU 2EA, Memory 4GB, [SSD]Disk 50GB | SVR.VSVR.HICPU.C002.M004.NET.SSD.B050.G002 | HICPU

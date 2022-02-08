@@ -1,7 +1,7 @@
 ### Server Products
 #### Server Image (Ubuntu 14.04 with Pinpoint 1.7.3​) - SPSW0LINUX000082
 
-Description | Code | Type
+Description | Product code | Type
 -- | -- | --
 vCPU 8EA, Memory 16GB, Disk 50GB | SPSVRHICPU000003 | HICPU
 vCPU 16EA, Memory 32GB, Disk 50GB | SPSVRHICPU000004 | HICPU

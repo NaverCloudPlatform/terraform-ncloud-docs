@@ -1,7 +1,7 @@
 ### Server Products
 #### Server Image (Ubuntu Server 14.04 with Redis 3.2.8) - SPSW0LINUX000063
 
-Description | Code | Type
+Description | Product code | Type
 -- | -- | --
 vCPU 1EA, Memory 1GB, Disk 50GB | SPSVRSTAND000056 | MICRO
 vCPU 1개, 메모리 2GB, 디스크 50GB | SPSVRSTAND000003 | COMPT

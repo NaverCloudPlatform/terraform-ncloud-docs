@@ -1,7 +1,7 @@
 ### Server Products
 #### Server Image (CentOS 7.3 with Pinpoint 1.7.3) - SW.VSVR.APP.LNX64.CNTOS.0703.PINPT.173.B050
 
-Description | Code | Type
+Description | Product code | Type
 -- | -- | --
 vCPU 8EA, Memory 16GB, Disk 50GB | SVR.VSVR.HICPU.C008.M016.NET.HDD.B050.G002 | HICPU
 vCPU 8EA, Memory 16GB, [SSD]Disk 50GB | SVR.VSVR.HICPU.C008.M016.NET.SSD.B050.G002 | HICPU

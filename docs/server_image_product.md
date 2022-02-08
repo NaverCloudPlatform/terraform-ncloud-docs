@@ -1,6 +1,6 @@
 ### Server Image Products (VPC)
 
-Description | Code | Type | B/S Size(GB)
+Description | Image code | Type | B/S Size(GB)
 -- | -- | -- | --
 [CentOS 7.3 (64-bit)](vpc_products/centos-7.3-64.md) | SW.VSVR.OS.LNX64.CNTOS.0703.B050 | Linux | 50
 [CentOS 7.8 (64-bit)](vpc_products/CentOS+7.8+%2864-bit%29.md) | SW.VSVR.OS.LNX64.CNTOS.0708.B050 | Linux | 50
@@ -28,7 +28,7 @@ Description | Code | Type | B/S Size(GB)
 
 ### Server Image Products (Classic)
 
-Description | Code | Type | B/S Size(GB)
+Description | Image code | Type | B/S Size(GB)
 -- | -- | -- | --
 [CentOS 7.2 (64-bit)](classic_products/centos-7.2-64.md) | SPSW0LINUX000045 | Linux | 50
 [CentOS 7.3 (64-bit)](classic_products/centos-7.3-64.md) | SPSW0LINUX000046 | Linux | 50
