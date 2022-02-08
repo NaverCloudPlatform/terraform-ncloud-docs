@@ -1,5 +1,4 @@
-### Server Products
-#### Server Image (CentOS 7.8 (64-bit) with LEMP) - SPSW0LINUX000152
+### Server products of image(CentOS 7.8 (64-bit) with LEMP) - SPSW0LINUX000152
 
 Description | Product code | Type
 -- | -- | --

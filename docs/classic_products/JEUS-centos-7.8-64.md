@@ -1,5 +1,4 @@
-### Server Products
-#### Server Image (CentOS 7.8 with JEUS) - SPSW0LINUX000155
+### Server products of image(CentOS 7.8 with JEUS) - SPSW0LINUX000155
 
 Description | Product code | Type
 -- | -- | --

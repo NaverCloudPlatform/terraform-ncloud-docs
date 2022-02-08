@@ -1,5 +1,4 @@
-### Server Products
-#### Server Image (Ubuntu 16.04 (64-bit) with WordPress) - SPSW0LINUX000088
+### Server products of image(Ubuntu 16.04 (64-bit) with WordPress) - SPSW0LINUX000088
 
 Description | Product code | Type
 -- | -- | --

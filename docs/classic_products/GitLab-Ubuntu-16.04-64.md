@@ -1,5 +1,4 @@
-### Server Products
-#### Server Image (Ubuntu 16.04 (64-bit) with GitLab) - SPSW0LINUX000116
+### Server products of image(Ubuntu 16.04 (64-bit) with GitLab) - SPSW0LINUX000116
 
 Description | Product code | Type
 -- | -- | --

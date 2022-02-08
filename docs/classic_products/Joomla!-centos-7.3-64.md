@@ -1,5 +1,4 @@
-### Server Products
-#### Server Image (CentOS 7.3 (64-bit) with Joomla!) - SPSW0LINUX000097
+### Server products of image(CentOS 7.3 (64-bit) with Joomla!) - SPSW0LINUX000097
 
 Description | Product code | Type
 -- | -- | --

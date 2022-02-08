@@ -1,5 +1,4 @@
-### Server Products
-#### Server Image (Ubuntu 16.04 with Jenkins) - SPSW0LINUX000067
+### Server products of image(Ubuntu 16.04 with Jenkins) - SPSW0LINUX000067
 
 Description | Product code | Type
 -- | -- | --

@@ -1,5 +1,4 @@
-### Server Products
-#### Server Image (CentOS 7.8 (64-bit) with Tomcat) - SW.VSVR.APP.LNX64.CNTOS.0708.TOMCT.LATEST.B050
+### Server products of image(CentOS 7.8 (64-bit) with Tomcat) - SW.VSVR.APP.LNX64.CNTOS.0708.TOMCT.LATEST.B050
 
 Description | Product code | Type
 -- | -- | --

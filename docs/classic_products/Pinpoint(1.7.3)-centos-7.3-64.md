@@ -1,5 +1,4 @@
-### Server Products
-#### Server Image (CentOS 7.3 with Pinpoint 1.7.3) - SPSW0LINUX000080
+### Server products of image(CentOS 7.3 with Pinpoint 1.7.3) - SPSW0LINUX000080
 
 Description | Product code | Type
 -- | -- | --

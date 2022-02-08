@@ -1,5 +1,4 @@
-### Server Products
-#### Server Image (Ubuntu Server 16.04 with Redis 4.0.14) - SPSW0LINUX000115
+### Server products of image(Ubuntu Server 16.04 with Redis 4.0.14) - SPSW0LINUX000115
 
 Description | Product code | Type
 -- | -- | --

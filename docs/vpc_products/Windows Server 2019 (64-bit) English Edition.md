@@ -1,5 +1,4 @@
-### Server Products
-#### Server Image (Windows Server 2019 (64-bit) English Edition) - SW.VSVR.OS.WND64.WND.SVR2019EN.B100
+### Server products of image(Windows Server 2019 (64-bit) English Edition) - SW.VSVR.OS.WND64.WND.SVR2019EN.B100
 
 Description | Product code | Type
 -- | -- | --

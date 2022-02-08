@@ -1,5 +1,4 @@
-### Server Products
-#### Server Image (Ubuntu 16.04 (64-bit) with Shadowsocks) - SPSW0LINUX000098
+### Server products of image(Ubuntu 16.04 (64-bit) with Shadowsocks) - SPSW0LINUX000098
 
 Description | Product code | Type
 -- | -- | --

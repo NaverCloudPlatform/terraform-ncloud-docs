@@ -1,5 +1,4 @@
-### Server Products
-#### Server Image (Ubuntu Server 16.04 with MySQL 5.7) - SPSW0LINUX000054
+### Server products of image(Ubuntu Server 16.04 with MySQL 5.7) - SPSW0LINUX000054
 
 Description | Product code | Type
 -- | -- | --

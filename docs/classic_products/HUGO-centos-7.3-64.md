@@ -1,5 +1,4 @@
-### Server Products
-#### Server Image (CentOS 7.3 (64-bit) with HUGO) - SPSW0LINUX000121
+### Server products of image(CentOS 7.3 (64-bit) with HUGO) - SPSW0LINUX000121
 
 Description | Product code | Type
 -- | -- | --

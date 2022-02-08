@@ -1,5 +1,4 @@
-### Server Products
-#### Server Image (CentOS 7.3 (64-bit)) - SW.VSVR.OS.LNX64.CNTOS.0703.B050
+### Server products of image(CentOS 7.3 (64-bit)) - SW.VSVR.OS.LNX64.CNTOS.0703.B050
 
 Description | Product code | Type
 -- | -- | --

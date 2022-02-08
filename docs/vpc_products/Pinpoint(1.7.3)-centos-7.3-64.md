@@ -1,5 +1,4 @@
-### Server Products
-#### Server Image (CentOS 7.3 with Pinpoint 1.7.3) - SW.VSVR.APP.LNX64.CNTOS.0703.PINPT.173.B050
+### Server products of image(CentOS 7.3 with Pinpoint 1.7.3) - SW.VSVR.APP.LNX64.CNTOS.0703.PINPT.173.B050
 
 Description | Product code | Type
 -- | -- | --

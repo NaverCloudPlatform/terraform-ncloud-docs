@@ -1,5 +1,4 @@
-### Server Products
-#### Server Image (CentOS 7.8 with RabbitMQ) - SPSW0LINUX000142
+### Server products of image(CentOS 7.8 with RabbitMQ) - SPSW0LINUX000142
 
 Description | Product code | Type
 -- | -- | --

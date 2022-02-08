@@ -1,5 +1,4 @@
-### Server Products
-#### Server Image (CentOS 7.3 with PostgreSQL 9.4) - SPSW0LINUX000069
+### Server products of image(CentOS 7.3 with PostgreSQL 9.4) - SPSW0LINUX000069
 
 Description | Product code | Type
 -- | -- | --

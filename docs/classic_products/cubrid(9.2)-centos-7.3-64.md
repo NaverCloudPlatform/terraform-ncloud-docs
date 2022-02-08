@@ -1,5 +1,4 @@
-### Server Products
-#### Server Image (CentOS 7.3 with Cubrid 9.2) - SPSW0LINUX000060
+### Server products of image(CentOS 7.3 with Cubrid 9.2) - SPSW0LINUX000060
 
 Description | Product code | Type
 -- | -- | --

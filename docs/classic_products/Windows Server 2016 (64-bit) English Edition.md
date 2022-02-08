@@ -1,5 +1,4 @@
-### Server Products
-#### Server Image (Windows Server 2016 (64-bit) English Edition) - SPSW0WINNTEN0016A
+### Server products of image(Windows Server 2016 (64-bit) English Edition) - SPSW0WINNTEN0016A
 
 Description | Product code | Type
 -- | -- | --

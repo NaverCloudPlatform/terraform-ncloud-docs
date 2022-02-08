@@ -1,5 +1,4 @@
-### Server Products
-#### Server Image (Windows 2019 Server R2 with MSSQL 2019 Standard English Edition) - SW.VSVR.DBMS.WND64.WND.SVR2019STDEN.MSSQL.2019.B100
+### Server products of image(Windows 2019 Server R2 with MSSQL 2019 Standard English Edition) - SW.VSVR.DBMS.WND64.WND.SVR2019STDEN.MSSQL.2019.B100
 
 Description | Product code | Type
 -- | -- | --

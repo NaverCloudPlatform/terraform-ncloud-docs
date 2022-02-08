@@ -1,5 +1,4 @@
-### Server Products
-#### Server Image (CentOS 7.3 (64-bit) with LEMP) - SPSW0LINUX000119
+### Server products of image(CentOS 7.3 (64-bit) with LEMP) - SPSW0LINUX000119
 
 Description | Product code | Type
 -- | -- | --

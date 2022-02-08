@@ -1,5 +1,4 @@
-### Server Products
-#### Server Image (Windows 2016 Server with MSSQL 2017 Standard English Edition) - SPSW0WINNTEN0047A
+### Server products of image(Windows 2016 Server with MSSQL 2017 Standard English Edition) - SPSW0WINNTEN0047A
 
 Description | Product code | Type
 -- | -- | --

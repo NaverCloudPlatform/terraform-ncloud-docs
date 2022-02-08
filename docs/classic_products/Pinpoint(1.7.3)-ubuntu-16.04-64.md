@@ -1,5 +1,4 @@
-### Server Products
-#### Server Image (Ubuntu 16.04 with Pinpoint 1.7.3) - SPSW0LINUX000083
+### Server products of image(Ubuntu 16.04 with Pinpoint 1.7.3) - SPSW0LINUX000083
 
 Description | Product code | Type
 -- | -- | --

@@ -1,5 +1,4 @@
-### Server Products
-#### Server Image (Ubuntu Server 14.04 with Redis 3.2.8) - SPSW0LINUX000063
+### Server products of image(Ubuntu Server 14.04 with Redis 3.2.8) - SPSW0LINUX000063
 
 Description | Product code | Type
 -- | -- | --

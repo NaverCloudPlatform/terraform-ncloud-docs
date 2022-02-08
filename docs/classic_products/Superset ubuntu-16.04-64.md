@@ -1,5 +1,4 @@
-### Server Products
-#### Server Image (Ubuntu Server 16.04 with Superset and PostgreSQL) - SPSW0LINUX000131
+### Server products of image(Ubuntu Server 16.04 with Superset and PostgreSQL) - SPSW0LINUX000131
 
 Description | Product code | Type
 -- | -- | --

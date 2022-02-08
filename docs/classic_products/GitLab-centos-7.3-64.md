@@ -1,5 +1,4 @@
-### Server Products
-#### Server Image (CentOS 7.3 (64-bit) with GitLab) - SPSW0LINUX000117
+### Server products of image(CentOS 7.3 (64-bit) with GitLab) - SPSW0LINUX000117
 
 Description | Product code | Type
 -- | -- | --

@@ -1,5 +1,4 @@
-### Server Products
-#### Server Image (CentOS 7.8 with Gradle) - SPSW0LINUX000158
+### Server products of image(CentOS 7.8 with Gradle) - SPSW0LINUX000158
 
 Description | Product code | Type
 -- | -- | --

@@ -1,5 +1,4 @@
-### Server Products
-#### Server Image (Ubuntu Server 14.04 with Cubrid 9.2) - SPSW0LINUX000058
+### Server products of image(Ubuntu Server 14.04 with Cubrid 9.2) - SPSW0LINUX000058
 
 Description | Product code | Type
 -- | -- | --

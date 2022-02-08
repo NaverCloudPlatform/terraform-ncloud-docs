@@ -1,5 +1,4 @@
-### Server Products
-#### Server Image (CentOS 7.8 with Tensorflow) - SPSW0LINUX000140
+### Server products of image(CentOS 7.8 with Tensorflow) - SPSW0LINUX000140
 
 Description | Product code | Type
 -- | -- | --

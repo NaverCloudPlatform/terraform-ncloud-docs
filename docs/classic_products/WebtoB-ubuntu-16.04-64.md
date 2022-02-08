@@ -1,5 +1,4 @@
-### Server Products
-#### Server Image (Ubuntu Server 16.04 with WebtoB) - SPSW0LINUX000125
+### Server products of image(Ubuntu Server 16.04 with WebtoB) - SPSW0LINUX000125
 
 Description | Product code | Type
 -- | -- | --

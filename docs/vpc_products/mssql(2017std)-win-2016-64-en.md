@@ -1,5 +1,4 @@
-### Server Products
-#### Server Image (Windows 2016 Server R2 with MSSQL 2017 Standard English Edition) - SW.VSVR.DBMS.WND64.WND.SVR2016STDEN.MSSQL.2017.B100
+### Server products of image(Windows 2016 Server R2 with MSSQL 2017 Standard English Edition) - SW.VSVR.DBMS.WND64.WND.SVR2016STDEN.MSSQL.2017.B100
 
 Description | Product code | Type
 -- | -- | --

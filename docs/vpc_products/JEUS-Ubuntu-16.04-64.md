@@ -1,5 +1,4 @@
-### Server Products
-#### Server Image (Ubuntu 16.04 (64-bit) with JEUS) - SW.VSVR.APP.LNX64.UBNTU.SVR1604.JEUS.LATEST.B050
+### Server products of image(Ubuntu 16.04 (64-bit) with JEUS) - SW.VSVR.APP.LNX64.UBNTU.SVR1604.JEUS.LATEST.B050
 
 Description | Product code | Type
 -- | -- | --

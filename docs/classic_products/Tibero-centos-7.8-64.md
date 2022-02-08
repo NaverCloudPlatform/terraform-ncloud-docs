@@ -1,5 +1,4 @@
-### Server Products
-#### Server Image (CentOS 7.8 with Tibero) - SPSW0LINUX000157
+### Server products of image(CentOS 7.8 with Tibero) - SPSW0LINUX000157
 
 Description | Product code | Type
 -- | -- | --

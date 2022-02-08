@@ -1,5 +1,4 @@
-### Server Products
-#### Server Image (CentOS 7.3 with WebtoB) - SPSW0LINUX000124
+### Server products of image(CentOS 7.3 with WebtoB) - SPSW0LINUX000124
 
 Description | Product code | Type
 -- | -- | --

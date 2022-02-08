@@ -1,5 +1,4 @@
-### Server Products
-#### Server Image (CentOS 7.8 with Tomcat) - SPSW0LINUX000156
+### Server products of image(CentOS 7.8 with Tomcat) - SPSW0LINUX000156
 
 Description | Product code | Type
 -- | -- | --

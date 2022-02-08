@@ -1,5 +1,4 @@
-### Server Products
-#### Server Image (CentOS 7.8 with Jenkins) - SPSW0LINUX000141
+### Server products of image(CentOS 7.8 with Jenkins) - SPSW0LINUX000141
 
 Description | Product code | Type
 -- | -- | --

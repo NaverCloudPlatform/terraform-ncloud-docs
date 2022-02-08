@@ -1,5 +1,4 @@
-### Server Products
-#### Server Image (CentOS 7.8 (64-bit) with GitLab) - SPSW0LINUX000151
+### Server products of image(CentOS 7.8 (64-bit) with GitLab) - SPSW0LINUX000151
 
 Description | Product code | Type
 -- | -- | --

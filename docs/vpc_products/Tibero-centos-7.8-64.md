@@ -1,5 +1,4 @@
-### Server Products
-#### Server Image (CentOS 7.8 with Tibero) - SW.VSVR.DBMS.LNX64.CNTOS.0708.TBERO.LATEST.B050
+### Server products of image(CentOS 7.8 with Tibero) - SW.VSVR.DBMS.LNX64.CNTOS.0708.TBERO.LATEST.B050
 
 Description | Product code | Type
 -- | -- | --

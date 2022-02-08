@@ -39,7 +39,7 @@ func main() {
 		go func(r *vserver.Product) {
 			defer wg.Done()
 			products := vpcService.GetServerProductList(r)
-			md := createMarkdownProducts(fmt.Sprintf("Server Image (%s) - %s", *r.ProductDescription, *r.ProductCode), products)
+			md := createMarkdownProducts(fmt.Sprintf("Server products of image(%s) - %s", *r.ProductDescription, *r.ProductCode), products)
 			createFile(md, "docs/vpc_products/"+*r.ProductName+".md")
 		}(r)
 	}
@@ -49,7 +49,7 @@ func main() {
 		go func(r *vserver.Product) {
 			defer wg.Done()
 			products := classicService.GetServerProductList(r)
-			md := createMarkdownProducts(fmt.Sprintf("Server Image (%s) - %s", *r.ProductDescription, *r.ProductCode), products)
+			md := createMarkdownProducts(fmt.Sprintf("Server products of image(%s) - %s", *r.ProductDescription, *r.ProductCode), products)
 			createFile(md, "docs/classic_products/"+*r.ProductName+".md")
 		}(r)
 	}
@@ -72,8 +72,7 @@ func createMarkdownImages(products []*vserver.Product, title string, productPath
 
 func createMarkdownProducts(title string, products []*vserver.Product) string {
 	var b bytes.Buffer
-	b.WriteString("### Server Products\n")
-	b.WriteString("#### " + title + "\n\n")
+	b.WriteString("### " + title + "\n\n")
 	b.WriteString("Description | Product code | Type\n")
 	b.WriteString("-- | -- | --\n")
 

@@ -1,5 +1,4 @@
-### Server Products
-#### Server Image (Ubuntu 16.04 (64-bit) with LEMP) - SPSW0LINUX000118
+### Server products of image(Ubuntu 16.04 (64-bit) with LEMP) - SPSW0LINUX000118
 
 Description | Product code | Type
 -- | -- | --

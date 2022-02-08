@@ -1,5 +1,4 @@
-### Server Products
-#### Server Image (Ubuntu Server 16.04 with MariaDB 10.2) - SPSW0LINUX000073
+### Server products of image(Ubuntu Server 16.04 with MariaDB 10.2) - SPSW0LINUX000073
 
 Description | Product code | Type
 -- | -- | --

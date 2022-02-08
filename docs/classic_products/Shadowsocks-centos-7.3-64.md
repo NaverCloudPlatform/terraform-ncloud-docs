@@ -1,5 +1,4 @@
-### Server Products
-#### Server Image (CentOS 7.3 (64-bit) with Shadowsocks) - SPSW0LINUX000099
+### Server products of image(CentOS 7.3 (64-bit) with Shadowsocks) - SPSW0LINUX000099
 
 Description | Product code | Type
 -- | -- | --

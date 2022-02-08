@@ -1,5 +1,4 @@
-### Server Products
-#### Server Image (Ubuntu Server 16.04 with RabbitMQ 3.7.0) - SPSW0LINUX000075
+### Server products of image(Ubuntu Server 16.04 with RabbitMQ 3.7.0) - SPSW0LINUX000075
 
 Description | Product code | Type
 -- | -- | --

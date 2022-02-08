@@ -1,5 +1,4 @@
-### Server Products
-#### Server Image (CentOS 7.2 with MySQL 5.6) - SPSW0LINUX000049
+### Server products of image(CentOS 7.2 with MySQL 5.6) - SPSW0LINUX000049
 
 Description | Product code | Type
 -- | -- | --

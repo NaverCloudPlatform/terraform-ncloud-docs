@@ -1,5 +1,4 @@
-### Server Products
-#### Server Image (Ubuntu 16.04 (64-bit) with Tomcat) - SPSW0LINUX000137
+### Server products of image(Ubuntu 16.04 (64-bit) with Tomcat) - SPSW0LINUX000137
 
 Description | Product code | Type
 -- | -- | --

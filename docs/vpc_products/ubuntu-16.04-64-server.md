@@ -1,5 +1,4 @@
-### Server Products
-#### Server Image (Ubuntu Server 16.04 (64-bit) ) - SW.VSVR.OS.LNX64.UBNTU.SVR1604.B050
+### Server products of image(Ubuntu Server 16.04 (64-bit) ) - SW.VSVR.OS.LNX64.UBNTU.SVR1604.B050
 
 Description | Product code | Type
 -- | -- | --

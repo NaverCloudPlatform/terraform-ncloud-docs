@@ -1,5 +1,4 @@
-### Server Products
-#### Server Image (Ubuntu Server 18.04 (64-bit) ) - SPSW0LINUX000130
+### Server products of image(Ubuntu Server 18.04 (64-bit) ) - SPSW0LINUX000130
 
 Description | Product code | Type
 -- | -- | --

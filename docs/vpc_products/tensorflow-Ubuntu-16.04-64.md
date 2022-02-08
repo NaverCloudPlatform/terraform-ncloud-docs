@@ -1,5 +1,4 @@
-### Server Products
-#### Server Image (Ubuntu 16.04 (64-bit) with Tensorflow) - SW.VSVR.APP.LNX64.UBNTU.SVR1604.TNSFL.LATEST.B050
+### Server products of image(Ubuntu 16.04 (64-bit) with Tensorflow) - SW.VSVR.APP.LNX64.UBNTU.SVR1604.TNSFL.LATEST.B050
 
 Description | Product code | Type
 -- | -- | --

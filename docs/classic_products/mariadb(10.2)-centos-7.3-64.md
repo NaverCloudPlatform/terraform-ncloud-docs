@@ -1,5 +1,4 @@
-### Server Products
-#### Server Image (CentOS 7.3 with MariaDB 10.2) - SPSW0LINUX000074
+### Server products of image(CentOS 7.3 with MariaDB 10.2) - SPSW0LINUX000074
 
 Description | Product code | Type
 -- | -- | --

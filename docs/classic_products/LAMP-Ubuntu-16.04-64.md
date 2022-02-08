@@ -1,5 +1,4 @@
-### Server Products
-#### Server Image (Ubuntu 16.04 (64-bit) with LAMP) - SPSW0LINUX000087
+### Server products of image(Ubuntu 16.04 (64-bit) with LAMP) - SPSW0LINUX000087
 
 Description | Product code | Type
 -- | -- | --

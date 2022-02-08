@@ -1,5 +1,4 @@
-### Server Products
-#### Server Image (CentOS 7.2 (64-bit)) - SPSW0LINUX000045
+### Server products of image(CentOS 7.2 (64-bit)) - SPSW0LINUX000045
 
 Description | Product code | Type
 -- | -- | --

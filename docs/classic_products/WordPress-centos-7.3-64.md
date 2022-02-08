@@ -1,5 +1,4 @@
-### Server Products
-#### Server Image (CentOS 7.3 (64-bit) with WordPress) - SPSW0LINUX000089
+### Server products of image(CentOS 7.3 (64-bit) with WordPress) - SPSW0LINUX000089
 
 Description | Product code | Type
 -- | -- | --

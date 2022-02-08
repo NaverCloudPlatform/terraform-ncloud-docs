@@ -1,5 +1,4 @@
-### Server Products
-#### Server Image (Ubuntu Server 16.04 with JEUS) - SPSW0LINUX000127
+### Server products of image(Ubuntu Server 16.04 with JEUS) - SPSW0LINUX000127
 
 Description | Product code | Type
 -- | -- | --

@@ -1,5 +1,4 @@
-### Server Products
-#### Server Image (Ubuntu 14.04 with Pinpoint 1.7.3​) - SPSW0LINUX000082
+### Server products of image(Ubuntu 14.04 with Pinpoint 1.7.3​) - SPSW0LINUX000082
 
 Description | Product code | Type
 -- | -- | --

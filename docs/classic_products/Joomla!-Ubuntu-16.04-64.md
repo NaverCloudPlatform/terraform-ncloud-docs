@@ -1,5 +1,4 @@
-### Server Products
-#### Server Image (Ubuntu 16.04 (64-bit) with Joomla!) - SPSW0LINUX000096
+### Server products of image(Ubuntu 16.04 (64-bit) with Joomla!) - SPSW0LINUX000096
 
 Description | Product code | Type
 -- | -- | --

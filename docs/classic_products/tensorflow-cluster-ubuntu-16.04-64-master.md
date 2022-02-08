@@ -1,5 +1,4 @@
-### Server Products
-#### Server Image (Ubuntu 16.04 with Tensorflow Cluster) - SPSW0LINUX000079
+### Server products of image(Ubuntu 16.04 with Tensorflow Cluster) - SPSW0LINUX000079
 
 Description | Product code | Type
 -- | -- | --

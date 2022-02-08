@@ -1,5 +1,4 @@
-### Server Products
-#### Server Image (CentOS 7.3 (64-bit) with Node.js) - SPSW0LINUX000107
+### Server products of image(CentOS 7.3 (64-bit) with Node.js) - SPSW0LINUX000107
 
 Description | Product code | Type
 -- | -- | --

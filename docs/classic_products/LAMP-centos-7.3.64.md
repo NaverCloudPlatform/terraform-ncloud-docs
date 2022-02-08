@@ -1,5 +1,4 @@
-### Server Products
-#### Server Image (CentOS 7.3 (64-bit) with LAMP) - SPSW0LINUX000086
+### Server products of image(CentOS 7.3 (64-bit) with LAMP) - SPSW0LINUX000086
 
 Description | Product code | Type
 -- | -- | --
