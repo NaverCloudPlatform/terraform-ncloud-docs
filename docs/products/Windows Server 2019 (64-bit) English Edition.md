@@ -1,4 +1,6 @@
-### Server Products (Windows Server 2019 (64-bit) English Edition)Code | Description | O/S | B/S Size(GB)
+### Server Products (Windows Server 2019 (64-bit) English Edition)
+Code | Description | O/S | B/S Size(GB)
+-- | -- | -- | --
 SVR.VSVR.HICPU.C002.M004.NET.HDD.B100.G002 | vCPU 2EA, Memory 4GB, Disk 100GB | High CPU | 100
 SVR.VSVR.HICPU.C002.M004.NET.SSD.B100.G002 | vCPU 2EA, Memory 4GB, [SSD]Disk 100GB | High CPU | 100
 SVR.VSVR.CPU.C002.M004.NET.HDD.B100.G002 | vCPU 2EA, Memory 4GB, Disk 100GB | CPU | 100

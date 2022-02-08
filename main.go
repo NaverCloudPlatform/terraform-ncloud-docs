@@ -39,8 +39,9 @@ func main() {
 
 func createMarkdown(title string, products []*vserver.Product) string {
 	var b bytes.Buffer
-	b.WriteString("### " + title)
+	b.WriteString("### " + title + "\n")
 	b.WriteString("Code | Description | O/S | B/S Size(GB)\n")
+	b.WriteString("-- | -- | -- | --\n")
 
 	for _, r := range products {
 		b.WriteString(fmt.Sprintf("%s | %s | %s | %d\n", ncloud.StringValue(r.ProductCode), ncloud.StringValue(r.ProductDescription), ncloud.StringValue(r.ProductType.CodeName), ncloud.Int64Value(r.BaseBlockStorageSize)/GIGA_BYTE))
@@ -53,7 +54,7 @@ func GetServerImageProductList(client *vserver.APIClient) []*vserver.Product {
 	req := vserver.GetServerImageProductListRequest{
 		RegionCode: ncloud.String("KR"),
 	}
-	``
+
 	if r, err := client.V2Api.GetServerImageProductList(&req); err != nil {
 		log.Println(err)
 	} else {

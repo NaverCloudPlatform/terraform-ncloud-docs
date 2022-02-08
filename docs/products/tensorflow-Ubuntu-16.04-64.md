@@ -1,4 +1,6 @@
-### Server Products (Ubuntu 16.04 (64-bit) with Tensorflow)Code | Description | O/S | B/S Size(GB)
+### Server Products (Ubuntu 16.04 (64-bit) with Tensorflow)
+Code | Description | O/S | B/S Size(GB)
+-- | -- | -- | --
 SVR.VSVR.HICPU.C002.M004.NET.HDD.B050.G002 | vCPU 2EA, Memory 4GB, Disk 50GB | High CPU | 50
 SVR.VSVR.HICPU.C002.M004.NET.SSD.B050.G002 | vCPU 2EA, Memory 4GB, [SSD]Disk 50GB | High CPU | 50
 SVR.VSVR.CPU.C002.M004.NET.HDD.B050.G002 | vCPU 2EA, Memory 4GB, Disk 50GB | CPU | 50

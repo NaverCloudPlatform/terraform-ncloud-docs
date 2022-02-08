@@ -1,4 +1,6 @@
-### Server Image ProductsCode | Description | O/S | B/S Size(GB)
+### Server Image Products
+Code | Description | O/S | B/S Size(GB)
+-- | -- | -- | --
 SW.VSVR.OS.LNX64.CNTOS.0703.B050 | CentOS 7.3 (64-bit) | Linux | 50
 SW.VSVR.OS.LNX64.CNTOS.0708.B050 | CentOS 7.8 (64-bit) | Linux | 50
 SW.VSVR.APP.LNX64.CNTOS.0708.JEUS.LATEST.B050 | CentOS 7.8 (64-bit) with JEUS | Linux | 50

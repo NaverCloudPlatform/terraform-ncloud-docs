@@ -1,4 +1,6 @@
-### Server Products (CentOS 7.3 with Pinpoint 1.7.3)Code | Description | O/S | B/S Size(GB)
+### Server Products (CentOS 7.3 with Pinpoint 1.7.3)
+Code | Description | O/S | B/S Size(GB)
+-- | -- | -- | --
 SVR.VSVR.HICPU.C008.M016.NET.HDD.B050.G002 | vCPU 8EA, Memory 16GB, Disk 50GB | High CPU | 50
 SVR.VSVR.HICPU.C008.M016.NET.SSD.B050.G002 | vCPU 8EA, Memory 16GB, [SSD]Disk 50GB | High CPU | 50
 SVR.VSVR.HIMEM.C002.M016.NET.HDD.B050.G002 | vCPU 2EA, Memory 16GB, Disk 50GB | High Memory | 50
