@@ -2,16 +2,29 @@
 ## Overview
 - This docs help to use terraform creation server
 
+
 ## Configuration (for run)
 - Add configure file to call API
-- or Refer [Set CLI API Authentication key](https://cli.ncloud-docs.com/docs/guide-userguide) > Execute ncloud configure
-```go
-$ cat $HOME/.ncloud/configure
-[DEFAULT]
-ncloud_access_key_id = YOUR_ACCESS_ID
-ncloud_secret_access_key = YOUR_SECRET_ACCESS_KEY
-ncloud_api_url = https://ncloud.apigw.ntruss.com
+- Copy `account.yaml.sample` on root directory to `account.yaml` and fix it with your accessKey & secreyKey.
+``` yaml
+accounts:
+- domain: "Pub"
+  region: "KR"
+  accessKey: {your access key}
+  secretKey: {your secret key}
+  apiUrl: "https://ncloud.apigw.ntruss.com"
+- domain: "Fin"
+  region: "FKR"
+  accessKey: {your access key}
+  secretKey: {your secret key}
+  apiUrl: "https://fin-ncloud.apigw.fin-ntruss.com"
+- domain: "Gov"
+  region: "KR"
+  accessKey: {your access key}
+  secretKey: {your secret key}
+  apiUrl: "https://ncloud.apigw.gov-ntruss.com"
 ```
+
 
 ## Contents
 

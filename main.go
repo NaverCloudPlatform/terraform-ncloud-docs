@@ -3,8 +3,10 @@ package main
 import (
 	"bytes"
 	"fmt"
+	"io/ioutil"
 	"net/url"
 	"os"
+	"path/filepath"
 	"sort"
 	"strings"
 
@@ -13,38 +15,33 @@ import (
 	"github.com/NaverCloudPlatform/ncloud-sdk-go-v2/ncloud"
 	"github.com/NaverCloudPlatform/ncloud-sdk-go-v2/services/vserver"
 	"github.com/NaverCloudPlatform/terraform-ncloud-docs/service"
+	"gopkg.in/yaml.v3"
 )
 
 const GIGA_BYTE = 1024 * 1024 * 1024
 
-func main() {
-	// apiKeys := ncloud.Keys()
+type Accounts struct {
+	Accounts []struct {
+		Domain    string `yaml:"domain"`
+		Region    string `yaml:"region"`
+		AccessKey string `yaml:"accessKey"`
+		SecretKey string `yaml:"secretKey"`
+		ApiUrl    string `yaml:"apiUrl"`
+	} `yaml:"accounts"`
+}
 
-	// API Key List Configuration. Fill out accessKey, secretKey on each doamin
-	var apiKeyList = []map[string]string{}
-	apiKeyList = append(apiKeyList,
-		map[string]string{
-			"domain":    "Pub",
-			"region":    "KR",
-			"accessKey": "",
-			"secretKey": "",
-			"api_url":   "https://ncloud.apigw.ntruss.com",
-		},
-		map[string]string{
-			"domain":    "Fin",
-			"region":    "FKR",
-			"accessKey": "",
-			"secretKey": "",
-			"api_url":   "https://fin-ncloud.apigw.fin-ntruss.com",
-		},
-		map[string]string{
-			"domain":    "Gov",
-			"region":    "KR",
-			"accessKey": "",
-			"secretKey": "",
-			"api_url":   "https://ncloud.apigw.gov-ntruss.com",
-		},
-	)
+func main() {
+	filename, _ := filepath.Abs("account.yaml")
+	yamlFile, err := ioutil.ReadFile(filename)
+	if err != nil {
+		return
+	}
+
+	var accounts Accounts
+	err = yaml.Unmarshal(yamlFile, &accounts)
+	if err != nil {
+		return
+	}
 
 	var wg sync.WaitGroup
 
@@ -55,31 +52,31 @@ func main() {
 	classicServerProductsV2 := map[string]*ServerProductsV2{}
 
 	// PUB, FIN, GOV 순회하여 실행
-	for _, apiKey := range apiKeyList {
+	for _, account := range accounts.Accounts {
 		apiKeys := &ncloud.APIKey{
-			AccessKey: apiKey["accessKey"],
-			SecretKey: apiKey["secretKey"],
+			AccessKey: account.AccessKey,
+			SecretKey: account.SecretKey,
 		}
-		os.Setenv("NCLOUD_API_GW", apiKey["api_url"])
+		os.Setenv("NCLOUD_API_GW", account.ApiUrl)
 
 		// VPC 이미지상품 데이터 생성
 		vpcService := service.NewVpcService(apiKeys)
-		vpcImageProducts := vpcService.GetServerImageProductList(apiKey["region"])
-		vpcImageProductsV2 = UpdateProductsWithDomain(vpcImageProductsV2, vpcImageProducts, apiKey["domain"])
+		vpcImageProducts := vpcService.GetServerImageProductList(account.Region)
+		vpcImageProductsV2 = UpdateProductsWithDomain(vpcImageProductsV2, vpcImageProducts, account.Domain)
 
 		// VPC 서버상품 데이터 생성
 		for _, r := range vpcImageProducts {
 			wg.Add(1)
 			go func(r *vserver.Product) {
 				defer wg.Done()
-				vpcServerProducts := vpcService.GetServerProductList(r, apiKey["region"])
+				vpcServerProducts := vpcService.GetServerProductList(r, account.Region)
 
 				if _, isExist := vpcServerProductsV2[*r.ProductCode]; isExist {
-					vpcServerProductsV2[*r.ProductCode].productsV2 = UpdateProductsWithDomain(vpcServerProductsV2[*r.ProductCode].productsV2, vpcServerProducts, apiKey["domain"])
+					vpcServerProductsV2[*r.ProductCode].productsV2 = UpdateProductsWithDomain(vpcServerProductsV2[*r.ProductCode].productsV2, vpcServerProducts, account.Domain)
 				} else {
 					productsV2 := []*ProductV2{}
 					vpcServerProductsV2[*r.ProductCode] = &ServerProductsV2{
-						productsV2:              UpdateProductsWithDomain(productsV2, vpcServerProducts, apiKey["domain"]),
+						productsV2:              UpdateProductsWithDomain(productsV2, vpcServerProducts, account.Domain),
 						imageProductName:        *r.ProductName,
 						imageProductDescription: *r.ProductDescription,
 						imageProductCode:        *r.ProductCode,
@@ -89,13 +86,12 @@ func main() {
 		}
 		wg.Wait()
 
-
 		// FIN 인 경우 classic 상품을 조회하지 않음
-		if apiKey["domain"] != "Fin" {
+		if account.Domain != "Fin" {
 			// 클래식 이미지상품 데이터 생성
 			classicService := service.NewClassicService(apiKeys)
 			classicImageProducts := classicService.GetServerImageProductList()
-			classicImageProductsV2 = UpdateProductsWithDomain(classicImageProductsV2, classicImageProducts, apiKey["domain"])
+			classicImageProductsV2 = UpdateProductsWithDomain(classicImageProductsV2, classicImageProducts, account.Domain)
 
 			// 클래식 서버상품 데이터 생성
 			for _, r := range classicImageProducts {
@@ -105,11 +101,11 @@ func main() {
 					classicServerProducts := classicService.GetServerProductList(r)
 
 					if _, isExist := classicServerProductsV2[*r.ProductCode]; isExist {
-						classicServerProductsV2[*r.ProductCode].productsV2 = UpdateProductsWithDomain(classicServerProductsV2[*r.ProductCode].productsV2, classicServerProducts, apiKey["domain"])
+						classicServerProductsV2[*r.ProductCode].productsV2 = UpdateProductsWithDomain(classicServerProductsV2[*r.ProductCode].productsV2, classicServerProducts, account.Domain)
 					} else {
 						productsV2 := []*ProductV2{}
 						classicServerProductsV2[*r.ProductCode] = &ServerProductsV2{
-							productsV2:              UpdateProductsWithDomain(productsV2, classicServerProducts, apiKey["domain"]),
+							productsV2:              UpdateProductsWithDomain(productsV2, classicServerProducts, account.Domain),
 							imageProductName:        *r.ProductName,
 							imageProductDescription: *r.ProductDescription,
 							imageProductCode:        *r.ProductCode,

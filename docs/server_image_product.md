@@ -4,6 +4,8 @@ Description | Image code | Type | B/S Size(GB) | Pub | Fin | Gov |
 -- | -- | -- | -- | -- | -- | -- |
 [CentOS 7.8 (64-bit)](vpc_products/CentOS+7.8+%2864-bit%29.md) | SW.VSVR.OS.LNX64.CNTOS.0708.B050 | Linux | 50 | O | O | O |
 [CentOS 7.3 (64-bit)](vpc_products/centos-7.3-64.md) | SW.VSVR.OS.LNX64.CNTOS.0703.B050 | Linux | 50 | O | O | X |
+[CentOS 7.8 with Clara Parabricks](vpc_products/Clara+Parabricks-centos-7.8-64.md) | SW.VSVR.APP.LNX64.CNTOS.0708.CLARA.LATEST.B050 | Linux | 50 | O | X | X |
+[Ubuntu Server 18.04 with Clara Parabricks](vpc_products/Clara+Parabricks-ubuntu-18.04-64.md) | SW.VSVR.APP.LNX64.UBNTU.SVR1804.CLARA.LATEST.B050 | Linux | 50 | O | X | X |
 [CentOS 7.3 with Cubrid 9.2](vpc_products/cubrid%289.2%29-centos-7.3-64.md) | SW.VSVR.DBMS.LNX64.CNTOS.0703.CBRID.0902.B050 | Linux | 50 | X | O | X |
 [Ubuntu Server 16.04 with Cubrid 9.2](vpc_products/cubrid%289.2%29-ubuntu-16.04-64-server.md) | SW.VSVR.DBMS.LNX64.UBNTU.SVR1604.CBRID.0902.B050 | Linux | 50 | X | O | X |
 [CentOS 7.8 (64-bit) with JEUS](vpc_products/JEUS-centos-7.8-64.md) | SW.VSVR.APP.LNX64.CNTOS.0708.JEUS.LATEST.B050 | Linux | 50 | O | O | O |
