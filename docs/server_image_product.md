@@ -18,6 +18,7 @@ Description | Image code | Type | B/S Size(GB) | Pub | Fin | Gov |
 [CentOS 7.8 (64-bit) with LENA (WEB/WAS)](vpc_products/LENA%28WEBWAS%29-centos-7.8-64.md) | SW.VSVR.APP.LNX64.CNTOS.0708.LNAWW.LATEST.B050 | Linux | 50 | X | X | O |
 [Ubuntu 18.04 (64-bit) with LENA (WEB/WAS)](vpc_products/LENA%28WEBWAS%29-Ubuntu-18.04-64.md) | SW.VSVR.APP.LNX64.UBNTU.SVR1804.LNAWW.LATEST.B050 | Linux | 50 | X | X | O |
 [CentOS 7.8 with Luna HSM](vpc_products/Luna+HSM-centos-7.8-64.md) | SW.VSVR.APP.LNX64.CNTOS.0708.LUHSM.LATEST.B050 | Linux | 50 | X | O | O |
+[CentOS 7.8 with MariaDB 10.2 (64-bit)](vpc_products/mariadb%2810.2%29-centos-7.8-64.md) | SW.VSVR.DBMS.LNX64.CNTOS.0708.MARIA.102.B050 | Linux | 50 | O | O | X |
 [CentOS 7.8 (64-bit) with META Commerce](vpc_products/META-Commerce-centos-7.8-64.md) | SW.VSVR.APP.LNX64.CNTOS.0708.DCOMM.LATEST.B050 | Linux | 50 | O | X | X |
 [CentOS 7.8 with Mobius](vpc_products/Mobius-centos-7.8-64.md) | SW.VSVR.APP.LNX64.CNTOS.0708.MBIUS.LATEST.B050 | Linux | 50 | X | X | O |
 [Windows 2012 Server R2 with MSSQL 2012 Standard English Edition](vpc_products/mssql%282012std%29-win-2012-64-R2-en.md) | SW.VSVR.DBMS.WND64.WND.SVR2012R2STDEN.MSSQL.2012.B100 | Windows NT | 100 | X | O | X |
@@ -26,13 +27,14 @@ Description | Image code | Type | B/S Size(GB) | Pub | Fin | Gov |
 [Windows 2016 Server R2 with MSSQL 2017 Standard English Edition](vpc_products/mssql%282017exp%29-win-2016-64-en.md) | SW.VSVR.DBMS.WND64.WND.SVR2016EXPEN.MSSQL.2017.B100 | Windows NT | 100 | X | O | X |
 [Windows 2016 Server R2 with MSSQL 2017 Standard English Edition](vpc_products/mssql%282017std%29-win-2016-64-en.md) | SW.VSVR.DBMS.WND64.WND.SVR2016STDEN.MSSQL.2017.B100 | Windows NT | 100 | O | O | X |
 [Windows 2016 Server R2 with MSSQL 2017 Standard Korean Edition](vpc_products/mssql%282017std%29-win-2016-64-ko.md) | SW.VSVR.DBMS.WND64.WND.SVR2016STDKO.MSSQL.2017.B100 | Windows NT | 100 | X | X | O |
-[Windows 2016 Server R2 with MSSQL 2019 Standard English Edition](vpc_products/mssql%282019std%29-win-2016-64-en.md) | SW.VSVR.DBMS.WND64.WND.SVR2016STDEN.MSSQL.2019.B100 | Windows NT | 100 | O | X | X |
+[Windows 2016 Server R2 with MSSQL 2019 Standard English Edition](vpc_products/mssql%282019std%29-win-2016-64-en.md) | SW.VSVR.DBMS.WND64.WND.SVR2016STDEN.MSSQL.2019.B100 | Windows NT | 100 | O | O | X |
 [Windows 2016 Server R2 with MSSQL 2019 Standard Korean Edition](vpc_products/mssql%282019std%29-win-2016-64-ko.md) | SW.VSVR.DBMS.WND64.WND.SVR2016STDKO.MSSQL.2019.B100 | Windows NT | 100 | X | X | O |
 [Windows 2019 Server R2 with MSSQL 2019 Standard English Edition](vpc_products/mssql%282019std%29-win-2019-64-en.md) | SW.VSVR.DBMS.WND64.WND.SVR2019STDEN.MSSQL.2019.B100 | Windows NT | 100 | O | X | X |
 [Windows 2019 Server R2 with MSSQL 2019 Standard Korean Edition](vpc_products/mssql%282019std%29-win-2019-64-ko.md) | SW.VSVR.DBMS.WND64.WND.SVR2019STDKO.MSSQL.2019.B100 | Windows NT | 100 | X | X | O |
 [CentOS 7.3 with MySQL 5.7](vpc_products/mysql%285.7%29-centos-7.3-64.md) | SW.VSVR.DBMS.LNX64.CNTOS.0703.MYSQL.0507.B050 | Linux | 50 | X | O | X |
 [Ubuntu Server 16.04 with MySQL 5.7](vpc_products/mysql%285.7%29-ubuntu-16.04-64-server.md) | SW.VSVR.DBMS.LNX64.UBNTU.SVR1604.MYSQL.0507.B050 | Linux | 50 | X | O | X |
 [CentOS 7.3 with MySQL 8.0](vpc_products/mysql%288.0%29-centos-7.3-64.md) | SW.VSVR.DBMS.LNX64.CNTOS.0703.MYSQL.0800.B050 | Linux | 50 | X | O | X |
+[CentOS 7.8 with MySQL 8.0 (64-bit)](vpc_products/mysql%288.0%29-centos-7.8-64.md) | SW.VSVR.DBMS.LNX64.CNTOS.0708.MYSQL.0800.B050 | Linux | 50 | O | O | X |
 [Oracle Linux 6.10 (64-bit)](vpc_products/Oracle+Linux+6.10+%2864-bit%29.md) | SW.VSVR.OS.LNX64.ORCL.0610.B050 | Linux | 50 | X | O | X |
 [Oracle Linux 7.6 (64-bit)](vpc_products/Oracle+Linux+7.6+%2864-bit%29.md) | SW.VSVR.OS.LNX64.ORCL.0706.B050 | Linux | 50 | X | O | X |
 [CentOS 7.3 with Pinpoint 1.7.3](vpc_products/Pinpoint%281.7.3%29-centos-7.3-64.md) | SW.VSVR.APP.LNX64.CNTOS.0703.PINPT.173.B050 | Linux | 50 | O | X | X |
@@ -47,7 +49,7 @@ Description | Image code | Type | B/S Size(GB) | Pub | Fin | Gov |
 [Ubuntu 16.04 (64-bit) with Superset](vpc_products/Superset-Ubuntu-16.04-64.md) | SW.VSVR.APP.LNX64.UBNTU.SVR1604.SPRPG.LATEST.B050 | Linux | 50 | O | X | X |
 [CentOS 7.8 (64-bit) with Tensorflow](vpc_products/tensorflow-centos-7.8-64.md) | SW.VSVR.APP.LNX64.CNTOS.0708.TNSFL.LATEST.B050 | Linux | 50 | O | X | X |
 [Ubuntu 16.04 (64-bit) with Tensorflow](vpc_products/tensorflow-Ubuntu-16.04-64.md) | SW.VSVR.APP.LNX64.UBNTU.SVR1604.TNSFL.LATEST.B050 | Linux | 50 | O | X | X |
-[Ubuntu 18.04 (64-bit) with Tensorflow](vpc_products/tensorflow-Ubuntu-18.04-64.md) | SW.VSVR.APP.LNX64.UBNTU.SVR1804.TNSFL.LATEST.B050 | Linux | 50 | X | O | X |
+[Ubuntu 18.04 (64-bit) with Tensorflow](vpc_products/tensorflow-Ubuntu-18.04-64.md) | SW.VSVR.APP.LNX64.UBNTU.SVR1804.TNSFL.LATEST.B050 | Linux | 50 | O | O | X |
 [CentOS 7.8 with Tibero](vpc_products/Tibero-centos-7.8-64.md) | SW.VSVR.DBMS.LNX64.CNTOS.0708.TBERO.LATEST.B050 | Linux | 50 | O | O | O |
 [CentOS 7.8 (64-bit) with Tomcat](vpc_products/Tomcat-centos-7.8-64.md) | SW.VSVR.APP.LNX64.CNTOS.0708.TOMCT.LATEST.B050 | Linux | 50 | O | O | O |
 [Ubuntu 16.04 (64-bit) with Tomcat](vpc_products/Tomcat-Ubuntu-16.04-64.md) | SW.VSVR.APP.LNX64.UBNTU.SVR1604.TOMCT.LATEST.B050 | Linux | 50 | O | O | X |
