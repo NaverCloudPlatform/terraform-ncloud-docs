@@ -192,9 +192,7 @@ func createMarkdownProducts(title string, productsV2 []*ProductV2) string {
 	b.WriteString("-- | -- | -- | -- | -- | -- |\n")
 
 	for _, r := range productsV2 {
-		if ncloud.StringValue(r.ProductType.Code) != "CPU" {
-			b.WriteString(fmt.Sprintf("%s | %s | %s | %s | %s | %s |\n", ncloud.StringValue(r.ProductDescription), ncloud.StringValue(r.ProductCode), ncloud.StringValue(r.ProductType.Code), r.Pub, r.Fin, r.Gov))
-		}
+		b.WriteString(fmt.Sprintf("%s | %s | %s | %s | %s | %s |\n", ncloud.StringValue(r.ProductDescription), ncloud.StringValue(r.ProductCode), ncloud.StringValue(r.ProductType.Code), r.Pub, r.Fin, r.Gov))
 	}
 
 	return b.String()
