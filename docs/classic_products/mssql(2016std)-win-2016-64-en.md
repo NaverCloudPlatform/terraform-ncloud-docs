@@ -1,72 +1,72 @@
 ### Server products of image(Windows 2016 Server with MSSQL 2016 Standard English Edition) - SPSW0WINNTEN0052A
 
-Description | Product code | Type | Pub | Fin | Gov |
--- | -- | -- | -- | -- | -- |
-vCPU 12개, 메모리 16GB, 디스크 50GB | SPSVRSTAND000030A | STAND | O | X | X |
-vCPU 12개, 메모리 16GB, [SSD]디스크 50GB | SPSVRSSD00000008A | STAND | O | X | X |
-vCPU 12개, 메모리 32GB, 디스크 100GB | SPSVRSTAND000022A | STAND | O | X | X |
-vCPU 12개, 메모리 32GB, [SSD]디스크 100GB | SPSVRSSD00000015A | STAND | O | X | X |
-vCPU 16EA, Memory 128GB, Disk 100GB | SPSVRSTAND000061A | HIMEM | O | X | X |
-vCPU 16EA, Memory 128GB, Disk 100GB | SPSVRSTAND000085A | STAND | O | X | X |
-vCPU 16EA, Memory 128GB, [SSD]Disk 100GB | SPSVRSTAND000065A | HIMEM | O | X | X |
-vCPU 16EA, Memory 128GB, [SSD]Disk 100GB | SPSVRSTAND000090A | HIMEM | O | X | X |
-vCPU 16EA, Memory 16GB, Disk 100GB | SPSVRSTAND000053A | STAND | O | X | X |
-vCPU 16EA, Memory 16GB, [SSD]Disk 100GB | SPSVRSSD00000009A | STAND | O | X | X |
-vCPU 16EA, Memory 32GB, Disk 100GB | SPSVRSTAND000046A | STAND | O | X | X |
-vCPU 16EA, Memory 32GB, Disk 100GB | SPSVRCPU00000004A | CPU | O | X | X |
-vCPU 16EA, Memory 32GB, Disk 100GB | SPSVRHICPU000004A | HICPU | O | X | X |
-vCPU 16EA, Memory 32GB, [SSD]Disk 100GB | SPSVRSSD00000016A | STAND | O | X | X |
-vCPU 16EA, Memory 32GB, [SSD]Disk 100GB | SPSVRCPUSSD00004A | CPU | O | X | X |
-vCPU 16EA, Memory 32GB, [SSD]Disk 100GB | SPSVRHICPUSSD004A | HICPU | O | X | X |
-vCPU 16EA, Memory 64GB, Disk 100GB | SPSVRSTAND000060A | HIMEM | O | X | X |
-vCPU 16EA, Memory 64GB, Disk 100GB | SPSVRSTAND000075A | STAND | O | X | X |
-vCPU 16EA, Memory 128GB, [SSD]Disk 100GB | SPSVRSTAND000064A | HIMEM | O | X | X |
-vCPU 16EA, Memory 64GB, [SSD]Disk 100GB | SPSVRSTAND000080A | STAND | O | X | X |
-vCPU 2EA, Memory 16GB, Disk 100GB | SPSVRSTAND000052A | STAND | O | X | X |
-vCPU 2EA, Memory 16GB, Disk 100GB | SPSVRSTAND000082A | HIMEM | O | X | X |
-vCPU 2EA, Memory 16GB, [SSD]Disk 100GB | SPSVRSSD00000011A | STAND | O | X | X |
-vCPU 2EA, Memory 16GB, [SSD]Disk 100GB | SPSVRSTAND000087A | HIMEM | O | X | X |
-vCPU 2EA, Memory 2GB, Disk 100GB | SPSVRSTAND000049A | COMPT | O | X | X |
-vCPU 2EA, Memory 2GB, [SSD]Disk 100GB | SPSVRSSD00000002A | COMPT | O | X | X |
-vCPU 2개, 메모리 4GB, 디스크 100GB | SPSVRSTAND000004A | STAND | O | X | X |
-vCPU 2EA, Memory 4GB, Disk 100GB | SPSVRCPU00000001A | CPU | O | X | X |
-vCPU 2EA, Memory 4GB, Disk 100GB | SPSVRHICPU000001A | HICPU | O | X | X |
-vCPU 2개, 메모리 4GB, [SSD]디스크 100GB | SPSVRSSD00000003A | STAND | O | X | X |
-vCPU 2EA, Memory 4GB, [SSD]Disk 100GB | SPSVRCPUSSD00001A | CPU | O | X | X |
-vCPU 2EA, Memory 4GB, [SSD]Disk 100GB | SPSVRHICPUSSD001A | HICPU | O | X | X |
-vCPU 2개, 메모리 8GB, 디스크 100GB | SPSVRSTAND000024A | STAND | O | X | X |
-vCPU 2EA, Memory 8GB, Disk 100GB | SPSVRSTAND000072A | STAND | O | X | X |
-vCPU 2개, 메모리 8GB, [SSD]디스크 100GB | SPSVRSSD00000010A | STAND | O | X | X |
-vCPU 2EA, Memory 8GB, [SSD]Disk 100GB | SPSVRSTAND000077A | STAND | O | X | X |
-vCPU 4개, 메모리 16GB, 디스크 100GB | SPSVRSTAND000025A | STAND | O | X | X |
-vCPU 4EA, Memory 16GB, Disk 100GB | SPSVRSTAND000073A | STAND | O | X | X |
-vCPU 4개, 메모리 16GB, [SSD]디스크 100GB | SPSVRSSD00000012A | STAND | O | X | X |
-vCPU 4EA, Memory 16GB, [SSD]Disk 100GB | SPSVRSTAND000078A | STAND | O | X | X |
-vCPU 4EA, Memory 32GB, Disk 100GB | SPSVRSTAND000054A | STAND | O | X | X |
-vCPU 4EA, Memory 32GB, Disk 100GB | SPSVRSTAND000083A | HIMEM | O | X | X |
-vCPU 4EA, Memory 32GB, [SSD]Disk 100GB | SPSVRSSD00000013A | STAND | O | X | X |
-vCPU 4EA, Memory 32GB, [SSD]Disk 100GB | SPSVRSTAND000088A | HIMEM | O | X | X |
-vCPU 4EA, Memory 4GB, Disk 100GB | SPSVRSTAND000050A | STAND | O | X | X |
-vCPU 4EA, Memory 4GB, [SSD]Disk 100GB | SPSVRSSD00000004A | STAND | O | X | X |
-vCPU 4개, 메모리 8GB, 디스크 100GB | SPSVRSTAND000005A | STAND | O | X | X |
-vCPU 4EA, Memory 8GB, Disk 100GB | SPSVRCPU00000002A | CPU | O | X | X |
-vCPU 4EA, Memory 8GB, Disk 100GB | SPSVRHICPU000002A | HICPU | O | X | X |
-vCPU 4개, 메모리 8GB, [SSD]디스크 100GB | SPSVRSSD00000005A | STAND | O | X | X |
-vCPU 4EA, Memory 8GB, [SSD]Disk 100GB | SPSVRCPUSSD00002A | CPU | O | X | X |
-vCPU 4EA, Memory 8GB, [SSD]Disk 100GB | SPSVRHICPUSSD002A | HICPU | O | X | X |
-vCPU 8개, 메모리 16GB, 디스크 100GB | SPSVRSTAND000006A | STAND | O | X | X |
-vCPU 8EA, Memory 16GB, Disk 100GB | SPSVRCPU00000003A | CPU | O | X | X |
-vCPU 8EA, Memory 16GB, Disk 100GB | SPSVRHICPU000003A | HICPU | O | X | X |
-vCPU 8개, 메모리 16GB, [SSD]디스크 100GB | SPSVRSSD00000007A | STAND | O | X | X |
-vCPU 8EA, Memory 16GB, [SSD]Disk 100GB | SPSVRCPUSSD00003A | CPU | O | X | X |
-vCPU 8EA, Memory 16GB, [SSD]Disk 100GB | SPSVRHICPUSSD003A | HICPU | O | X | X |
-vCPU 8EA, Memory 32GB, Disk 100GB | SPSVRSTAND000055A | STAND | O | X | X |
-vCPU 8EA, Memory 32GB, Disk 100GB | SPSVRSTAND000074A | STAND | O | X | X |
-vCPU 8EA, Memory 32GB, [SSD]Disk 100GB | SPSVRSSD00000014A | STAND | O | X | X |
-vCPU 8EA, Memory 32GB, [SSD]Disk 100GB | SPSVRSTAND000079A | STAND | O | X | X |
-vCPU 8EA, Memory 64GB, Disk 100GB | SPSVRSTAND000059A | HIMEM | O | X | X |
-vCPU 8EA, Memory 64GB, Disk 100GB | SPSVRSTAND000084A | HIMEM | O | X | X |
-vCPU 8EA, Memory 64GB, [SSD]Disk 100GB | SPSVRSTAND000063A | HIMEM | O | X | X |
-vCPU 8EA, Memory 64GB, [SSD]Disk 100GB | SPSVRSTAND000089A | HIMEM | O | X | X |
-vCPU 8EA, Memory 8GB, Disk 100GB | SPSVRSTAND000051A | STAND | O | X | X |
-vCPU 8EA, Memory 8GB, [SSD]Disk 100GB | SPSVRSSD00000006A | STAND | O | X | X |
+Product Name | Product code | Type | Gen | Pub | Fin | Gov |
+-- | -- | -- | -- | -- | -- | -- |
+vCPU 12EA, Memory 16GB, Disk 100GB | SPSVRSTAND000030A | Standard |  | O | X | X |
+vCPU 12EA, Memory 16GB, [SSD]Disk 100GB | SPSVRSSD00000008A | Standard |  | O | X | X |
+vCPU 12EA, Memory 32GB, Disk 100GB | SPSVRSTAND000022A | Standard |  | O | X | X |
+vCPU 12EA, Memory 32GB, [SSD]Disk 100GB | SPSVRSSD00000015A | Standard |  | O | X | X |
+vCPU 16EA, Memory 128GB, Disk 100GB | SPSVRSTAND000061A | High Memory |  | O | X | X |
+vCPU 16EA, Memory 128GB, Disk 100GB | SPSVRSTAND000085A | Standard |  | O | X | X |
+vCPU 16EA, Memory 128GB, [SSD]Disk 100GB | SPSVRSTAND000065A | High Memory |  | O | X | X |
+vCPU 16EA, Memory 128GB, [SSD]Disk 100GB | SPSVRSTAND000090A | High Memory |  | O | X | X |
+vCPU 16EA, Memory 16GB, Disk 100GB | SPSVRSTAND000053A | Standard |  | O | X | X |
+vCPU 16EA, Memory 16GB, [SSD]Disk 100GB | SPSVRSSD00000009A | Standard |  | O | X | X |
+vCPU 16EA, Memory 32GB, Disk 100GB | SPSVRSTAND000046A | Standard |  | O | X | X |
+vCPU 16EA, Memory 32GB, Disk 100GB | SPSVRCPU00000004A | CPU Intensive |  | O | X | X |
+vCPU 16EA, Memory 32GB, Disk 100GB | SPSVRHICPU000004A | High CPU |  | O | X | X |
+vCPU 16EA, Memory 32GB, [SSD]Disk 100GB | SPSVRSSD00000016A | Standard |  | O | X | X |
+vCPU 16EA, Memory 32GB, [SSD]Disk 100GB | SPSVRCPUSSD00004A | CPU Intensive |  | O | X | X |
+vCPU 16EA, Memory 32GB, [SSD]Disk 100GB | SPSVRHICPUSSD004A | High CPU |  | O | X | X |
+vCPU 16EA, Memory 64GB, Disk 100GB | SPSVRSTAND000060A | High Memory |  | O | X | X |
+vCPU 16EA, Memory 64GB, Disk 100GB | SPSVRSTAND000075A | Standard |  | O | X | X |
+vCPU 16EA, Memory 64GB, [SSD]Disk 100GB | SPSVRSTAND000064A | High Memory |  | O | X | X |
+vCPU 16EA, Memory 64GB, [SSD]Disk 100GB | SPSVRSTAND000080A | Standard |  | O | X | X |
+vCPU 2EA, Memory 16GB, Disk 100GB | SPSVRSTAND000052A | Standard |  | O | X | X |
+vCPU 2EA, Memory 16GB, Disk 100GB | SPSVRSTAND000082A | High Memory |  | O | X | X |
+vCPU 2EA, Memory 16GB, [SSD]Disk 100GB | SPSVRSSD00000011A | Standard |  | O | X | X |
+vCPU 2EA, Memory 16GB, [SSD]Disk 100GB | SPSVRSTAND000087A | High Memory |  | O | X | X |
+vCPU 2EA, Memory 2GB, Disk 100GB | SPSVRSTAND000049A | Compact Server |  | O | X | X |
+vCPU 2EA, Memory 2GB, [SSD]Disk 100GB | SPSVRSSD00000002A | Compact Server |  | O | X | X |
+vCPU 2EA, Memory 4GB, Disk 100GB | SPSVRSTAND000004A | Standard |  | O | X | X |
+vCPU 2EA, Memory 4GB, Disk 100GB | SPSVRCPU00000001A | CPU Intensive |  | O | X | X |
+vCPU 2EA, Memory 4GB, Disk 100GB | SPSVRHICPU000001A | High CPU |  | O | X | X |
+vCPU 2EA, Memory 4GB, [SSD]Disk 100GB | SPSVRSSD00000003A | Standard |  | O | X | X |
+vCPU 2EA, Memory 4GB, [SSD]Disk 100GB | SPSVRCPUSSD00001A | CPU Intensive |  | O | X | X |
+vCPU 2EA, Memory 4GB, [SSD]Disk 100GB | SPSVRHICPUSSD001A | High CPU |  | O | X | X |
+vCPU 2EA, Memory 8GB, Disk 100GB | SPSVRSTAND000024A | Standard |  | O | X | X |
+vCPU 2EA, Memory 8GB, Disk 100GB | SPSVRSTAND000072A | Standard |  | O | X | X |
+vCPU 2EA, Memory 8GB, [SSD]Disk 100GB | SPSVRSSD00000010A | Standard |  | O | X | X |
+vCPU 2EA, Memory 8GB, [SSD]Disk 100GB | SPSVRSTAND000077A | Standard |  | O | X | X |
+vCPU 4EA, Memory 16GB, Disk 100GB | SPSVRSTAND000025A | Standard |  | O | X | X |
+vCPU 4EA, Memory 16GB, Disk 100GB | SPSVRSTAND000073A | Standard |  | O | X | X |
+vCPU 4EA, Memory 16GB, [SSD]Disk 100GB | SPSVRSSD00000012A | Standard |  | O | X | X |
+vCPU 4EA, Memory 16GB, [SSD]Disk 100GB | SPSVRSTAND000078A | Standard |  | O | X | X |
+vCPU 4EA, Memory 32GB, Disk 100GB | SPSVRSTAND000054A | Standard |  | O | X | X |
+vCPU 4EA, Memory 32GB, Disk 100GB | SPSVRSTAND000083A | High Memory |  | O | X | X |
+vCPU 4EA, Memory 32GB, [SSD]Disk 100GB | SPSVRSSD00000013A | Standard |  | O | X | X |
+vCPU 4EA, Memory 32GB, [SSD]Disk 100GB | SPSVRSTAND000088A | High Memory |  | O | X | X |
+vCPU 4EA, Memory 4GB, Disk 100GB | SPSVRSTAND000050A | Standard |  | O | X | X |
+vCPU 4EA, Memory 4GB, [SSD]Disk 100GB | SPSVRSSD00000004A | Standard |  | O | X | X |
+vCPU 4EA, Memory 8GB, Disk 100GB | SPSVRSTAND000005A | Standard |  | O | X | X |
+vCPU 4EA, Memory 8GB, Disk 100GB | SPSVRCPU00000002A | CPU Intensive |  | O | X | X |
+vCPU 4EA, Memory 8GB, Disk 100GB | SPSVRHICPU000002A | High CPU |  | O | X | X |
+vCPU 4EA, Memory 8GB, [SSD]Disk 100GB | SPSVRSSD00000005A | Standard |  | O | X | X |
+vCPU 4EA, Memory 8GB, [SSD]Disk 100GB | SPSVRCPUSSD00002A | CPU Intensive |  | O | X | X |
+vCPU 4EA, Memory 8GB, [SSD]Disk 100GB | SPSVRHICPUSSD002A | High CPU |  | O | X | X |
+vCPU 8EA, Memory 16GB, Disk 100GB | SPSVRSTAND000006A | Standard |  | O | X | X |
+vCPU 8EA, Memory 16GB, Disk 100GB | SPSVRCPU00000003A | CPU Intensive |  | O | X | X |
+vCPU 8EA, Memory 16GB, Disk 100GB | SPSVRHICPU000003A | High CPU |  | O | X | X |
+vCPU 8EA, Memory 16GB, [SSD]Disk 100GB | SPSVRSSD00000007A | Standard |  | O | X | X |
+vCPU 8EA, Memory 16GB, [SSD]Disk 100GB | SPSVRCPUSSD00003A | CPU Intensive |  | O | X | X |
+vCPU 8EA, Memory 16GB, [SSD]Disk 100GB | SPSVRHICPUSSD003A | High CPU |  | O | X | X |
+vCPU 8EA, Memory 32GB, Disk 100GB | SPSVRSTAND000055A | Standard |  | O | X | X |
+vCPU 8EA, Memory 32GB, Disk 100GB | SPSVRSTAND000074A | Standard |  | O | X | X |
+vCPU 8EA, Memory 32GB, [SSD]Disk 100GB | SPSVRSSD00000014A | Standard |  | O | X | X |
+vCPU 8EA, Memory 32GB, [SSD]Disk 100GB | SPSVRSTAND000079A | Standard |  | O | X | X |
+vCPU 8EA, Memory 64GB, Disk 100GB | SPSVRSTAND000059A | High Memory |  | O | X | X |
+vCPU 8EA, Memory 64GB, Disk 100GB | SPSVRSTAND000084A | High Memory |  | O | X | X |
+vCPU 8EA, Memory 64GB, [SSD]Disk 100GB | SPSVRSTAND000063A | High Memory |  | O | X | X |
+vCPU 8EA, Memory 64GB, [SSD]Disk 100GB | SPSVRSTAND000089A | High Memory |  | O | X | X |
+vCPU 8EA, Memory 8GB, Disk 100GB | SPSVRSTAND000051A | Standard |  | O | X | X |
+vCPU 8EA, Memory 8GB, [SSD]Disk 100GB | SPSVRSSD00000006A | Standard |  | O | X | X |

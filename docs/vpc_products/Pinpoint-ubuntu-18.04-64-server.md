@@ -1,4 +1,4 @@
-### Server products of image(CentOS 7.8 (64-bit) with LENA (WAS)) - SW.VSVR.APP.LNX64.CNTOS.0708.LNAWS.LATEST.B050
+### Server products of image(Ubuntu Server 18.04 with Pinpoint) - SW.VSVR.APP.LNX64.UBNTU.SVR1804.PINPT.LATEST.B050
 
 Product Name | Product code | Type | Gen | Pub | Fin | Gov |
 -- | -- | -- | -- | -- | -- | -- |

@@ -175,11 +175,11 @@ func main() {
 func createMarkdownImages(productsV2 []*ProductV2, title string, productPath string) string {
 	var b bytes.Buffer
 	b.WriteString("### " + title + "\n\n")
-	b.WriteString("Description | Image code | Type | B/S Size(GB) | Pub | Fin | Gov |\n")
-	b.WriteString("-- | -- | -- | -- | -- | -- | -- |\n")
+	b.WriteString("Image Name | Description | Image code | Type | B/S Size(GB) | Pub | Fin | Gov |\n")
+	b.WriteString("-- | -- | -- | -- | -- | -- | -- | -- |\n")
 
 	for _, r := range productsV2 {
-		b.WriteString(fmt.Sprintf("[%s](%s/%s.md) | %s | %s | %d | %s | %s | %s |\n", ncloud.StringValue(r.ProductDescription), productPath, url.QueryEscape(strings.Replace(ncloud.StringValue(r.ProductName), "/", "", -1)), ncloud.StringValue(r.ProductCode), ncloud.StringValue(r.ProductType.CodeName), ncloud.Int64Value(r.BaseBlockStorageSize)/GIGA_BYTE, r.Pub, r.Fin, r.Gov))
+		b.WriteString(fmt.Sprintf("[%s](%s/%s.md) | %s | %s | %s | %d | %s | %s | %s |\n", ncloud.StringValue(r.ProductName), productPath, url.QueryEscape(strings.Replace(ncloud.StringValue(r.ProductName), "/", "", -1)), ncloud.StringValue(r.ProductDescription), ncloud.StringValue(r.ProductCode), ncloud.StringValue(r.ProductType.CodeName), ncloud.Int64Value(r.BaseBlockStorageSize)/GIGA_BYTE, r.Pub, r.Fin, r.Gov))
 	}
 
 	return b.String()
@@ -188,11 +188,15 @@ func createMarkdownImages(productsV2 []*ProductV2, title string, productPath str
 func createMarkdownProducts(title string, productsV2 []*ProductV2) string {
 	var b bytes.Buffer
 	b.WriteString("### " + title + "\n\n")
-	b.WriteString("Description | Product code | Type | Pub | Fin | Gov |\n")
-	b.WriteString("-- | -- | -- | -- | -- | -- |\n")
+	b.WriteString("Product Name | Product code | Type | Gen | Pub | Fin | Gov |\n")
+	b.WriteString("-- | -- | -- | -- | -- | -- | -- |\n")
 
 	for _, r := range productsV2 {
-		b.WriteString(fmt.Sprintf("%s | %s | %s | %s | %s | %s |\n", ncloud.StringValue(r.ProductDescription), ncloud.StringValue(r.ProductCode), ncloud.StringValue(r.ProductType.Code), r.Pub, r.Fin, r.Gov))
+		codeName := ncloud.StringValue(r.ProductType.CodeName)
+		if codeName == "CPU" {
+			codeName = "CPU Intensive"
+		} 
+		b.WriteString(fmt.Sprintf("%s | %s | %s | %s | %s | %s | %s |\n", ncloud.StringValue(r.ProductName), ncloud.StringValue(r.ProductCode), codeName, ncloud.StringValue(r.GenerationCode), r.Pub, r.Fin, r.Gov))
 	}
 
 	return b.String()

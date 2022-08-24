@@ -1,82 +1,82 @@
 ### Server products of image(Ubuntu 16.04 (64-bit) with LAMP) - SPSW0LINUX000087
 
-Description | Product code | Type | Pub | Fin | Gov |
--- | -- | -- | -- | -- | -- |
-vCPU 12개, 메모리 16GB, 디스크 50GB | SPSVRSTAND000030 | STAND | O | X | X |
-vCPU 12개, 메모리 16GB, [SSD]디스크 50GB | SPSVRSSD00000008 | STAND | O | X | X |
-vCPU 12개, 메모리 32GB, 디스크 50GB | SPSVRSTAND000022 | STAND | O | X | X |
-vCPU 12개, 메모리 32GB, [SSD]디스크 50GB | SPSVRSSD00000015 | STAND | O | X | X |
-vCPU 16EA, Memory 128GB, Disk 50GB | SPSVRSTAND000061 | HIMEM | O | X | X |
-vCPU 16EA, Memory 128GB, Disk 50GB | SPSVRSTAND000085 | HIMEM | O | X | X |
-vCPU 16EA, Memory 128GB, [SSD]Disk 50GB | SPSVRSTAND000065 | HIMEM | O | X | X |
-vCPU 16EA, Memory 128GB, [SSD]Disk 50GB | SPSVRSTAND000090 | HIMEM | O | X | X |
-vCPU 16EA, Memory 16GB, Disk 50GB | SPSVRSTAND000053 | STAND | O | X | X |
-vCPU 16EA, Memory 16GB, [SSD]Disk 50GB | SPSVRSSD00000009 | STAND | O | X | X |
-vCPU 16EA, Memory 32GB, Disk 50GB | SPSVRSTAND000046 | STAND | O | X | X |
-vCPU 16EA, Memory 32GB, Disk 50GB | SPSVRCPU00000004 | CPU | O | X | X |
-vCPU 16EA, Memory 32GB, Disk 50GB | SPSVRHICPU000004 | HICPU | O | X | X |
-vCPU 16EA, Memory 32GB, [SSD]Disk 50GB | SPSVRSSD00000016 | STAND | O | X | X |
-vCPU 16EA, Memory 32GB, [SSD]Disk 50GB | SPSVRCPUSSD00004 | CPU | O | X | X |
-vCPU 16EA, Memory 32GB, [SSD]Disk 50GB | SPSVRHICPUSSD004 | HICPU | O | X | X |
-vCPU 16EA, Memory 64GB, Disk 50GB | SPSVRSTAND000060 | HIMEM | O | X | X |
-vCPU 16EA, Memory 64GB, Disk 50GB | SPSVRSTAND000075 | STAND | O | X | X |
-vCPU 16EA, Memory 64GB, [SSD]Disk 50GB | SPSVRSTAND000064 | HIMEM | O | X | X |
-vCPU 16EA, Memory 64GB, [SSD]Disk 50GB | SPSVRSTAND000080 | STAND | O | X | X |
-vCPU 2EA, Memory 16GB, Disk 50GB | SPSVRSTAND000052 | STAND | O | X | X |
-vCPU 2EA, Memory 16GB, Disk 50GB | SPSVRSTAND000082 | HIMEM | O | X | X |
-vCPU 2EA, Memory 16GB, [SSD]Disk 50GB | SPSVRSSD00000011 | STAND | O | X | X |
-vCPU 2EA, Memory 16GB, [SSD]Disk 50GB | SPSVRSTAND000087 | HIMEM | O | X | X |
-vCPU 2개, 메모리 4GB, 디스크 50GB | SPSVRSTAND000004 | STAND | O | X | X |
-vCPU 2EA, Memory 4GB, Disk 50GB | SPSVRCPU00000001 | CPU | O | X | X |
-vCPU 2EA, Memory 4GB, Disk 50GB | SPSVRHICPU000001 | HICPU | O | X | X |
-vCPU 2개, 메모리 4GB, [SSD]디스크 50GB | SPSVRSSD00000003 | STAND | O | X | X |
-vCPU 2EA, Memory 4GB, [SSD]Disk 50GB | SPSVRCPUSSD00001 | CPU | O | X | X |
-vCPU 2EA, Memory 4GB, [SSD]Disk 50GB | SPSVRHICPUSSD001 | HICPU | O | X | X |
-vCPU 2개, 메모리 8GB, 디스크 50GB | SPSVRSTAND000024 | STAND | O | X | X |
-vCPU 2EA, Memory 8GB, Disk 50GB | SPSVRSTAND000072 | STAND | O | X | X |
-vCPU 2개, 메모리 8GB, [SSD]디스크 50GB | SPSVRSSD00000010 | STAND | O | X | X |
-vCPU 2EA, Memory 8GB, [SSD]Disk 50GB | SPSVRSTAND000077 | STAND | O | X | X |
-vCPU 32EA, Memory 128GB, Disk 50GB | SPSVRSTAND000062 | HIMEM | O | X | X |
-vCPU 32EA, Memory 128GB, Disk 50GB | SPSVRSTAND000076 | STAND | O | X | X |
-vCPU 32EA, Memory 128GB, [SSD]Disk 50GB | SPSVRSTAND000066 | HIMEM | O | X | X |
-vCPU 32EA, Memory 128GB, [SSD]Disk 50GB | SPSVRSTAND000081 | STAND | O | X | X |
-vCPU 32EA, Memory 256GB, Disk 50GB | SPSVRSTAND000067 | HIMEM | O | X | X |
-vCPU 32EA, Memory 256GB, Disk 50GB | SPSVRSTAND000086 | HIMEM | O | X | X |
-vCPU 32EA, Memory 256GB, [SSD]Disk 50GB | SPSVRSTAND000069 | HIMEM | O | X | X |
-vCPU 32EA, Memory 256GB, [SSD]Disk 50GB | SPSVRSTAND000091 | HIMEM | O | X | X |
-vCPU 32EA, Memory 64GB, Disk 50GB | SPSVRCPU00000005 | CPU | O | X | X |
-vCPU 32EA, Memory 64GB, Disk 50GB | SPSVRHICPU000005 | HICPU | O | X | X |
-vCPU 32EA, Memory 64GB, [SSD]Disk 50GB | SPSVRCPUSSD00005 | CPU | O | X | X |
-vCPU 32EA, Memory 64GB, [SSD]Disk 50GB | SPSVRHICPUSSD005 | HICPU | O | X | X |
-vCPU 4개, 메모리 16GB, 디스크 50GB | SPSVRSTAND000025 | STAND | O | X | X |
-vCPU 4EA, Memory 16GB, Disk 50GB | SPSVRSTAND000073 | STAND | O | X | X |
-vCPU 4개, 메모리 16GB, [SSD]디스크 50GB | SPSVRSSD00000012 | STAND | O | X | X |
-vCPU 4EA, Memory 16GB, [SSD]Disk 50GB | SPSVRSTAND000078 | STAND | O | X | X |
-vCPU 4EA, Memory 32GB, Disk 50GB | SPSVRSTAND000054 | STAND | O | X | X |
-vCPU 4EA, Memory 32GB, Disk 50GB | SPSVRSTAND000083 | HIMEM | O | X | X |
-vCPU 4EA, Memory 32GB, [SSD]Disk 50GB | SPSVRSSD00000013 | STAND | O | X | X |
-vCPU 4EA, Memory 32GB, [SSD]Disk 50GB | SPSVRSTAND000088 | HIMEM | O | X | X |
-vCPU 4EA, Memory 4GB, Disk 50GB | SPSVRSTAND000050 | STAND | O | X | X |
-vCPU 4EA, Memory 4GB, [SSD]Disk 50GB | SPSVRSSD00000004 | STAND | O | X | X |
-vCPU 4개, 메모리 8GB, 디스크 50GB | SPSVRSTAND000005 | STAND | O | X | X |
-vCPU 4EA, Memory 8GB, Disk 50GB | SPSVRCPU00000002 | CPU | O | X | X |
-vCPU 4EA, Memory 8GB, Disk 50GB | SPSVRHICPU000002 | HICPU | O | X | X |
-vCPU 4개, 메모리 8GB, [SSD]디스크 50GB | SPSVRSSD00000005 | STAND | O | X | X |
-vCPU 4EA, Memory 8GB, [SSD]Disk 50GB | SPSVRCPUSSD00002 | CPU | O | X | X |
-vCPU 4EA, Memory 8GB, [SSD]Disk 50GB | SPSVRHICPUSSD002 | HICPU | O | X | X |
-vCPU 8개, 메모리 16GB, 디스크 50GB | SPSVRSTAND000006 | STAND | O | X | X |
-vCPU 8EA, Memory 16GB, Disk 50GB | SPSVRCPU00000003 | CPU | O | X | X |
-vCPU 8EA, Memory 16GB, Disk 50GB | SPSVRHICPU000003 | HICPU | O | X | X |
-vCPU 8개, 메모리 16GB, [SSD]디스크 50GB | SPSVRSSD00000007 | STAND | O | X | X |
-vCPU 8EA, Memory 16GB, [SSD]Disk 50GB | SPSVRCPUSSD00003 | CPU | O | X | X |
-vCPU 8EA, Memory 16GB, [SSD]Disk 50GB | SPSVRHICPUSSD003 | HICPU | O | X | X |
-vCPU 8EA, Memory 32GB, Disk 50GB | SPSVRSTAND000055 | STAND | O | X | X |
-vCPU 8EA, Memory 32GB, Disk 50GB | SPSVRSTAND000074 | STAND | O | X | X |
-vCPU 8EA, Memory 32GB, [SSD]Disk 50GB | SPSVRSSD00000014 | STAND | O | X | X |
-vCPU 8EA, Memory 32GB, [SSD]Disk 50GB | SPSVRSTAND000079 | STAND | O | X | X |
-vCPU 8EA, Memory 64GB, Disk 50GB | SPSVRSTAND000059 | HIMEM | O | X | X |
-vCPU 8EA, Memory 64GB, Disk 50GB | SPSVRSTAND000084 | HIMEM | O | X | X |
-vCPU 8EA, Memory 64GB, [SSD]Disk 50GB | SPSVRSTAND000063 | HIMEM | O | X | X |
-vCPU 8EA, Memory 64GB, [SSD]Disk 50GB | SPSVRSTAND000089 | HIMEM | O | X | X |
-vCPU 8EA, Memory 8GB, Disk 50GB | SPSVRSTAND000051 | STAND | O | X | X |
-vCPU 8EA, Memory 8GB, [SSD]Disk 50GB | SPSVRSSD00000006 | STAND | O | X | X |
+Product Name | Product code | Type | Gen | Pub | Fin | Gov |
+-- | -- | -- | -- | -- | -- | -- |
+vCPU 12EA, Memory 16GB, Disk 50GB | SPSVRSTAND000030 | Standard |  | O | X | X |
+vCPU 12EA, Memory 16GB, [SSD]Disk 50GB | SPSVRSSD00000008 | Standard |  | O | X | X |
+vCPU 12EA, Memory 32GB, Disk 50GB | SPSVRSTAND000022 | Standard |  | O | X | X |
+vCPU 12EA, Memory 32GB, [SSD]Disk 50GB | SPSVRSSD00000015 | Standard |  | O | X | X |
+vCPU 16EA, Memory 128GB, Disk 50GB | SPSVRSTAND000061 | High Memory |  | O | X | X |
+vCPU 16EA, Memory 128GB, Disk 50GB | SPSVRSTAND000085 | High Memory |  | O | X | X |
+vCPU 16EA, Memory 128GB, [SSD]Disk 50GB | SPSVRSTAND000065 | High Memory |  | O | X | X |
+vCPU 16EA, Memory 128GB, [SSD]Disk 50GB | SPSVRSTAND000090 | High Memory |  | O | X | X |
+vCPU 16EA, Memory 16GB, Disk 50GB | SPSVRSTAND000053 | Standard |  | O | X | X |
+vCPU 16EA, Memory 16GB, [SSD]Disk 50GB | SPSVRSSD00000009 | Standard |  | O | X | X |
+vCPU 16EA, Memory 32GB, Disk 50GB | SPSVRSTAND000046 | Standard |  | O | X | X |
+vCPU 16EA, Memory 32GB, Disk 50GB | SPSVRCPU00000004 | CPU Intensive |  | O | X | X |
+vCPU 16EA, Memory 32GB, Disk 50GB | SPSVRHICPU000004 | High CPU |  | O | X | X |
+vCPU 16EA, Memory 32GB, [SSD]Disk 50GB | SPSVRSSD00000016 | Standard |  | O | X | X |
+vCPU 16EA, Memory 32GB, [SSD]Disk 50GB | SPSVRCPUSSD00004 | CPU Intensive |  | O | X | X |
+vCPU 16EA, Memory 32GB, [SSD]Disk 50GB | SPSVRHICPUSSD004 | High CPU |  | O | X | X |
+vCPU 16EA, Memory 64GB, Disk 50GB | SPSVRSTAND000060 | High Memory |  | O | X | X |
+vCPU 16EA, Memory 64GB, Disk 50GB | SPSVRSTAND000075 | Standard |  | O | X | X |
+vCPU 16EA, Memory 64GB, [SSD]Disk 50GB | SPSVRSTAND000064 | High Memory |  | O | X | X |
+vCPU 16EA, Memory 64GB, [SSD]Disk 50GB | SPSVRSTAND000080 | Standard |  | O | X | X |
+vCPU 2EA, Memory 16GB, Disk 50GB | SPSVRSTAND000052 | Standard |  | O | X | X |
+vCPU 2EA, Memory 16GB, Disk 50GB | SPSVRSTAND000082 | High Memory |  | O | X | X |
+vCPU 2EA, Memory 16GB, [SSD]Disk 50GB | SPSVRSSD00000011 | Standard |  | O | X | X |
+vCPU 2EA, Memory 16GB, [SSD]Disk 50GB | SPSVRSTAND000087 | High Memory |  | O | X | X |
+vCPU 2EA, Memory 4GB, Disk 50GB | SPSVRSTAND000004 | Standard |  | O | X | X |
+vCPU 2EA, Memory 4GB, Disk 50GB | SPSVRCPU00000001 | CPU Intensive |  | O | X | X |
+vCPU 2EA, Memory 4GB, Disk 50GB | SPSVRHICPU000001 | High CPU |  | O | X | X |
+vCPU 2EA, Memory 4GB, [SSD]Disk 50GB | SPSVRSSD00000003 | Standard |  | O | X | X |
+vCPU 2EA, Memory 4GB, [SSD]Disk 50GB | SPSVRCPUSSD00001 | CPU Intensive |  | O | X | X |
+vCPU 2EA, Memory 4GB, [SSD]Disk 50GB | SPSVRHICPUSSD001 | High CPU |  | O | X | X |
+vCPU 2EA, Memory 8GB, Disk 50GB | SPSVRSTAND000024 | Standard |  | O | X | X |
+vCPU 2EA, Memory 8GB, Disk 50GB | SPSVRSTAND000072 | Standard |  | O | X | X |
+vCPU 2EA, Memory 8GB, [SSD]Disk 50GB | SPSVRSSD00000010 | Standard |  | O | X | X |
+vCPU 2EA, Memory 8GB, [SSD]Disk 50GB | SPSVRSTAND000077 | Standard |  | O | X | X |
+vCPU 32EA, Memory 128GB, Disk 50GB | SPSVRSTAND000062 | High Memory |  | O | X | X |
+vCPU 32EA, Memory 128GB, Disk 50GB | SPSVRSTAND000076 | Standard |  | O | X | X |
+vCPU 32EA, Memory 128GB, [SSD]Disk 50GB | SPSVRSTAND000066 | High Memory |  | O | X | X |
+vCPU 32EA, Memory 128GB, [SSD]Disk 50GB | SPSVRSTAND000081 | Standard |  | O | X | X |
+vCPU 32EA, Memory 256GB, Disk 50GB | SPSVRSTAND000067 | High Memory |  | O | X | X |
+vCPU 32EA, Memory 256GB, Disk 50GB | SPSVRSTAND000086 | High Memory |  | O | X | X |
+vCPU 32EA, Memory 256GB, [SSD]Disk 50GB | SPSVRSTAND000069 | High Memory |  | O | X | X |
+vCPU 32EA, Memory 256GB, [SSD]Disk 50GB | SPSVRSTAND000091 | High Memory |  | O | X | X |
+vCPU 32EA, Memory 64GB, Disk 50GB | SPSVRCPU00000005 | CPU Intensive |  | O | X | X |
+vCPU 32EA, Memory 64GB, Disk 50GB | SPSVRHICPU000005 | High CPU |  | O | X | X |
+vCPU 32EA, Memory 64GB, [SSD]Disk 50GB | SPSVRCPUSSD00005 | CPU Intensive |  | O | X | X |
+vCPU 32EA, Memory 64GB, [SSD]Disk 50GB | SPSVRHICPUSSD005 | High CPU |  | O | X | X |
+vCPU 4EA, Memory 16GB, Disk 50GB | SPSVRSTAND000025 | Standard |  | O | X | X |
+vCPU 4EA, Memory 16GB, Disk 50GB | SPSVRSTAND000073 | Standard |  | O | X | X |
+vCPU 4EA, Memory 16GB, [SSD]Disk 50GB | SPSVRSSD00000012 | Standard |  | O | X | X |
+vCPU 4EA, Memory 16GB, [SSD]Disk 50GB | SPSVRSTAND000078 | Standard |  | O | X | X |
+vCPU 4EA, Memory 32GB, Disk 50GB | SPSVRSTAND000054 | Standard |  | O | X | X |
+vCPU 4EA, Memory 32GB, Disk 50GB | SPSVRSTAND000083 | High Memory |  | O | X | X |
+vCPU 4EA, Memory 32GB, [SSD]Disk 50GB | SPSVRSSD00000013 | Standard |  | O | X | X |
+vCPU 4EA, Memory 32GB, [SSD]Disk 50GB | SPSVRSTAND000088 | High Memory |  | O | X | X |
+vCPU 4EA, Memory 4GB, Disk 50GB | SPSVRSTAND000050 | Standard |  | O | X | X |
+vCPU 4EA, Memory 4GB, [SSD]Disk 50GB | SPSVRSSD00000004 | Standard |  | O | X | X |
+vCPU 4EA, Memory 8GB, Disk 50GB | SPSVRSTAND000005 | Standard |  | O | X | X |
+vCPU 4EA, Memory 8GB, Disk 50GB | SPSVRCPU00000002 | CPU Intensive |  | O | X | X |
+vCPU 4EA, Memory 8GB, Disk 50GB | SPSVRHICPU000002 | High CPU |  | O | X | X |
+vCPU 4EA, Memory 8GB, [SSD]Disk 50GB | SPSVRSSD00000005 | Standard |  | O | X | X |
+vCPU 4EA, Memory 8GB, [SSD]Disk 50GB | SPSVRCPUSSD00002 | CPU Intensive |  | O | X | X |
+vCPU 4EA, Memory 8GB, [SSD]Disk 50GB | SPSVRHICPUSSD002 | High CPU |  | O | X | X |
+vCPU 8EA, Memory 16GB, Disk 50GB | SPSVRSTAND000006 | Standard |  | O | X | X |
+vCPU 8EA, Memory 16GB, Disk 50GB | SPSVRCPU00000003 | CPU Intensive |  | O | X | X |
+vCPU 8EA, Memory 16GB, Disk 50GB | SPSVRHICPU000003 | High CPU |  | O | X | X |
+vCPU 8EA, Memory 16GB, [SSD]Disk 50GB | SPSVRSSD00000007 | Standard |  | O | X | X |
+vCPU 8EA, Memory 16GB, [SSD]Disk 50GB | SPSVRCPUSSD00003 | CPU Intensive |  | O | X | X |
+vCPU 8EA, Memory 16GB, [SSD]Disk 50GB | SPSVRHICPUSSD003 | High CPU |  | O | X | X |
+vCPU 8EA, Memory 32GB, Disk 50GB | SPSVRSTAND000055 | Standard |  | O | X | X |
+vCPU 8EA, Memory 32GB, Disk 50GB | SPSVRSTAND000074 | Standard |  | O | X | X |
+vCPU 8EA, Memory 32GB, [SSD]Disk 50GB | SPSVRSSD00000014 | Standard |  | O | X | X |
+vCPU 8EA, Memory 32GB, [SSD]Disk 50GB | SPSVRSTAND000079 | Standard |  | O | X | X |
+vCPU 8EA, Memory 64GB, Disk 50GB | SPSVRSTAND000059 | High Memory |  | O | X | X |
+vCPU 8EA, Memory 64GB, Disk 50GB | SPSVRSTAND000084 | High Memory |  | O | X | X |
+vCPU 8EA, Memory 64GB, [SSD]Disk 50GB | SPSVRSTAND000063 | High Memory |  | O | X | X |
+vCPU 8EA, Memory 64GB, [SSD]Disk 50GB | SPSVRSTAND000089 | High Memory |  | O | X | X |
+vCPU 8EA, Memory 8GB, Disk 50GB | SPSVRSTAND000051 | Standard |  | O | X | X |
+vCPU 8EA, Memory 8GB, [SSD]Disk 50GB | SPSVRSSD00000006 | Standard |  | O | X | X |

@@ -1,4 +1,4 @@
-### Server products of image(CentOS 7.8 (64-bit) with LENA (WAS)) - SW.VSVR.APP.LNX64.CNTOS.0708.LNAWS.LATEST.B050
+### Server products of image(CentOS 7.8 with eXperDB SE) - SW.VSVR.DBMS.LNX64.CNTOS.0708.EXPER.LATEST.B050
 
 Product Name | Product code | Type | Gen | Pub | Fin | Gov |
 -- | -- | -- | -- | -- | -- | -- |
@@ -8,12 +8,6 @@ vCPU 16EA, Memory 32GB, Disk 50GB | SVR.VSVR.HICPU.C016.M032.NET.HDD.B050.G002 |
 vCPU 16EA, Memory 32GB, [SSD]Disk 50GB | SVR.VSVR.HICPU.C016.M032.NET.SSD.B050.G002 | High CPU | G2 | X | X | O |
 vCPU 16EA, Memory 64GB, Disk 50GB | SVR.VSVR.STAND.C016.M064.NET.HDD.B050.G002 | Standard | G2 | X | X | O |
 vCPU 16EA, Memory 64GB, [SSD]Disk 50GB | SVR.VSVR.STAND.C016.M064.NET.SSD.B050.G002 | Standard | G2 | X | X | O |
-vCPU 2EA, Memory 16GB, Disk 50GB | SVR.VSVR.HIMEM.C002.M016.NET.HDD.B050.G002 | High Memory | G2 | X | X | O |
-vCPU 2EA, Memory 16GB, [SSD]Disk 50GB | SVR.VSVR.HIMEM.C002.M016.NET.SSD.B050.G002 | High Memory | G2 | X | X | O |
-vCPU 2EA, Memory 4GB, Disk 50GB | SVR.VSVR.HICPU.C002.M004.NET.HDD.B050.G002 | High CPU | G2 | X | X | O |
-vCPU 2EA, Memory 4GB, [SSD]Disk 50GB | SVR.VSVR.HICPU.C002.M004.NET.SSD.B050.G002 | High CPU | G2 | X | X | O |
-vCPU 2EA, Memory 8GB, Disk 50GB | SVR.VSVR.STAND.C002.M008.NET.HDD.B050.G002 | Standard | G2 | X | X | O |
-vCPU 2EA, Memory 8GB, [SSD]Disk 50GB | SVR.VSVR.STAND.C002.M008.NET.SSD.B050.G002 | Standard | G2 | X | X | O |
 vCPU 32EA, Memory 128GB, Disk 50GB | SVR.VSVR.STAND.C032.M128.NET.HDD.B050.G002 | Standard | G2 | X | X | O |
 vCPU 32EA, Memory 128GB, [SSD]Disk 50GB | SVR.VSVR.STAND.C032.M128.NET.SSD.B050.G002 | Standard | G2 | X | X | O |
 vCPU 32EA, Memory 256GB, Disk 50GB | SVR.VSVR.HIMEM.C032.M256.NET.HDD.B050.G002 | High Memory | G2 | X | X | O |
