@@ -8,7 +8,8 @@ Image Name | Description | Image code | Type | B/S Size(GB) | Pub | Fin | Gov |
 [Clara Parabricks-ubuntu-18.04-64](vpc_products/Clara+Parabricks-ubuntu-18.04-64.md) | Ubuntu Server 18.04 with Clara Parabricks | SW.VSVR.APP.LNX64.UBNTU.SVR1804.CLARA.LATEST.B050 | Linux | 50 | O | X | O |
 [cubrid(9.2)-centos-7.3-64](vpc_products/cubrid%289.2%29-centos-7.3-64.md) | CentOS 7.3 with Cubrid 9.2 | SW.VSVR.DBMS.LNX64.CNTOS.0703.CBRID.0902.B050 | Linux | 50 | X | O | X |
 [cubrid(9.2)-ubuntu-16.04-64-server](vpc_products/cubrid%289.2%29-ubuntu-16.04-64-server.md) | Ubuntu Server 16.04 with Cubrid 9.2 | SW.VSVR.DBMS.LNX64.UBNTU.SVR1604.CBRID.0902.B050 | Linux | 50 | X | O | X |
-[experdb(se)-centos-7.8-64](vpc_products/experdb%28se%29-centos-7.8-64.md) | CentOS 7.8 with eXperDB SE | SW.VSVR.DBMS.LNX64.CNTOS.0708.EXPER.LATEST.B050 | Linux | 50 | X | X | O |
+[experdb(ee)-centos-7.8-64](vpc_products/experdb%28ee%29-centos-7.8-64.md) | CentOS 7.8 with eXperDB Enterprise Edition | SW.VSVR.DBMS.LNX64.CNTOS.0708.EXPER.EE.LATEST.B050 | Linux | 50 | X | X | O |
+[experdb(se)-centos-7.8-64](vpc_products/experdb%28se%29-centos-7.8-64.md) | CentOS 7.8 with eXperDB Standard Edition | SW.VSVR.DBMS.LNX64.CNTOS.0708.EXPER.LATEST.B050 | Linux | 50 | X | X | O |
 [JEUS-centos-7.8-64](vpc_products/JEUS-centos-7.8-64.md) | CentOS 7.8 (64-bit) with JEUS | SW.VSVR.APP.LNX64.CNTOS.0708.JEUS.LATEST.B050 | Linux | 50 | O | O | O |
 [JEUS-Ubuntu-16.04-64](vpc_products/JEUS-Ubuntu-16.04-64.md) | Ubuntu 16.04 (64-bit) with JEUS | SW.VSVR.APP.LNX64.UBNTU.SVR1604.JEUS.LATEST.B050 | Linux | 50 | O | O | X |
 [JEUS-Ubuntu-18.04-64](vpc_products/JEUS-Ubuntu-18.04-64.md) | Ubuntu 18.04 (64-bit) with JEUS | SW.VSVR.APP.LNX64.UBNTU.SVR1804.JEUS.LATEST.B050 | Linux | 50 | X | X | O |
@@ -44,7 +45,7 @@ Image Name | Description | Image code | Type | B/S Size(GB) | Pub | Fin | Gov |
 [Pinpoint-ubuntu-18.04-64-server](vpc_products/Pinpoint-ubuntu-18.04-64-server.md) | Ubuntu Server 18.04 with Pinpoint | SW.VSVR.APP.LNX64.UBNTU.SVR1804.PINPT.LATEST.B050 | Linux | 50 | X | X | O |
 [PostgreSQL 9.4-centos-7.3-64](vpc_products/PostgreSQL+9.4-centos-7.3-64.md) | CentOS 7.3 with PostgreSQL 9.4 | SW.VSVR.DBMS.LNX64.CNTOS.0703.PSTGR.0904.B050 | Linux | 50 | X | O | X |
 [rabbitmq-centos-7.8-64](vpc_products/rabbitmq-centos-7.8-64.md) | CentOS 7.8 with RabbitMQ | SW.VSVR.APP.LNX64.CNTOS.0708.RBBT.LATEST.B050 | Linux | 50 | O | X | X |
-[Red Hat Enterprise Linux 7.6 (64-bit)](vpc_products/Red+Hat+Enterprise+Linux+7.6+%2864-bit%29.md) | Red Hat Enterprise Linux 7.6 (64-bit) | SW.VSVR.OS.LNX64.RHEL.0706.B050.H001 | Linux | 50 | X | O | X |
+[Red Hat Enterprise Linux 7.6 (64-bit)](vpc_products/Red+Hat+Enterprise+Linux+7.6+%2864-bit%29.md) | Red Hat Enterprise Linux 7.6 (64-bit) | SW.VSVR.OS.LNX64.RHEL.0706.B050.H001 | Linux | 50 | X | O | O |
 [Red Hat Enterprise Linux 8.2 (64-bit)](vpc_products/Red+Hat+Enterprise+Linux+8.2+%2864-bit%29.md) | Red Hat Enterprise Linux 8.2 (64-bit) | SW.VSVR.OS.LNX64.RHEL.0802.B050.H001 | Linux | 50 | X | O | X |
 [redis(3.2.8)-centos-7.3-64](vpc_products/redis%283.2.8%29-centos-7.3-64.md) | CentOS 7.3 with Redis 4.0.14 | SW.VSVR.DBMS.LNX64.CNTOS.0703.REDIS.4014.B050 | Linux | 50 | X | O | X |
 [redis(4.0.14)-ubuntu-16.04-64-server](vpc_products/redis%284.0.14%29-ubuntu-16.04-64-server.md) | Ubuntu Server 16.04 with Redis 4.0.14 | SW.VSVR.DBMS.LNX64.UBNTU.SVR1604.REDIS.4014.B050 | Linux | 50 | X | O | X |
@@ -60,7 +61,7 @@ Image Name | Description | Image code | Type | B/S Size(GB) | Pub | Fin | Gov |
 [ubuntu-14.04-64-server](vpc_products/ubuntu-14.04-64-server.md) | Ubuntu Server 14.04  | SW.VSVR.OS.LNX64.UBNTU.SVR1404.B050 | Linux | 50 | X | O | X |
 [ubuntu-16.04-64-server](vpc_products/ubuntu-16.04-64-server.md) | Ubuntu Server 16.04 (64-bit)  | SW.VSVR.OS.LNX64.UBNTU.SVR1604.B050 | Linux | 50 | O | O | X |
 [ubuntu-18.04](vpc_products/ubuntu-18.04.md) | Ubuntu Server 18.04 (64-bit)  | SW.VSVR.OS.LNX64.UBNTU.SVR1804.B050 | Linux | 50 | O | O | O |
-[ubuntu-20.04](vpc_products/ubuntu-20.04.md) | Ubuntu Server 20.04 (64-bit) | SW.VSVR.OS.LNX64.UBNTU.SVR2004.B050 | Linux | 50 | O | X | O |
+[ubuntu-20.04](vpc_products/ubuntu-20.04.md) | Ubuntu Server 20.04 (64-bit) | SW.VSVR.OS.LNX64.UBNTU.SVR2004.B050 | Linux | 50 | O | O | O |
 [WebtoB-centos-7.8-64](vpc_products/WebtoB-centos-7.8-64.md) | CentOS 7.8 (64-bit) with WebtoB | SW.VSVR.APP.LNX64.CNTOS.0708.WEBTB.LATEST.B050 | Linux | 50 | O | O | O |
 [WebtoB-Ubuntu-16.04-64](vpc_products/WebtoB-Ubuntu-16.04-64.md) | Ubuntu 16.04 (64-bit) with WebtoB | SW.VSVR.APP.LNX64.UBNTU.SVR1604.WEBTB.LATEST.B050 | Linux | 50 | O | O | X |
 [WebtoB-Ubuntu-18.04-64](vpc_products/WebtoB-Ubuntu-18.04-64.md) | Ubuntu 18.04 (64-bit) with WebtoB | SW.VSVR.APP.LNX64.UBNTU.SVR1804.WEBTB.LATEST.B050 | Linux | 50 | X | X | O |

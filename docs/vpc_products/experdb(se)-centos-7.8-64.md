@@ -1,4 +1,4 @@
-### Server products of image(CentOS 7.8 with eXperDB SE) - SW.VSVR.DBMS.LNX64.CNTOS.0708.EXPER.LATEST.B050
+### Server products of image(CentOS 7.8 with eXperDB Standard Edition) - SW.VSVR.DBMS.LNX64.CNTOS.0708.EXPER.LATEST.B050
 
 Product Name | Product code | Type | Gen | Pub | Fin | Gov |
 -- | -- | -- | -- | -- | -- | -- |
