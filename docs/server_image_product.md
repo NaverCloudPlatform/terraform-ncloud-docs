@@ -37,18 +37,21 @@ Image Name | Description | Image code | Type | B/S Size(GB) | Pub | Fin | Gov |
 [mysql(5.7)-ubuntu-16.04-64-server](vpc_products/mysql%285.7%29-ubuntu-16.04-64-server.md) | Ubuntu Server 16.04 with MySQL 5.7 | SW.VSVR.DBMS.LNX64.UBNTU.SVR1604.MYSQL.0507.B050 | Linux | 50 | X | O | X |
 [mysql(8.0)-centos-7.3-64](vpc_products/mysql%288.0%29-centos-7.3-64.md) | CentOS 7.3 with MySQL 8.0 | SW.VSVR.DBMS.LNX64.CNTOS.0703.MYSQL.0800.B050 | Linux | 50 | X | O | X |
 [mysql(8.0)-centos-7.8-64](vpc_products/mysql%288.0%29-centos-7.8-64.md) | CentOS 7.8 with MySQL 8.0 (64-bit) | SW.VSVR.DBMS.LNX64.CNTOS.0708.MYSQL.0800.B050 | Linux | 50 | O | O | X |
-[Oracle Linux 6.10 (64-bit)](vpc_products/Oracle+Linux+6.10+%2864-bit%29.md) | Oracle Linux 6.10 (64-bit) | SW.VSVR.OS.LNX64.ORCL.0610.B050 | Linux | 50 | X | O | X |
 [Oracle Linux 7.6 (64-bit)](vpc_products/Oracle+Linux+7.6+%2864-bit%29.md) | Oracle Linux 7.6 (64-bit) | SW.VSVR.OS.LNX64.ORCL.0706.B050 | Linux | 50 | X | O | X |
 [Pinpoint(1.7.3)-centos-7.3-64](vpc_products/Pinpoint%281.7.3%29-centos-7.3-64.md) | CentOS 7.3 with Pinpoint 1.7.3 | SW.VSVR.APP.LNX64.CNTOS.0703.PINPT.173.B050 | Linux | 50 | O | X | X |
 [Pinpoint-centos-7.8-64](vpc_products/Pinpoint-centos-7.8-64.md) | CentOS 7.8 with Pinpoint | SW.VSVR.APP.LNX64.CNTOS.0708.PINPT.LATEST.B050 | Linux | 50 | O | O | O |
 [Pinpoint-ubuntu-16.04-64-server](vpc_products/Pinpoint-ubuntu-16.04-64-server.md) | Ubuntu Server 16.04 with Pinpoint | SW.VSVR.APP.LNX64.UBNTU.SVR1604.PINPT.LATEST.B050 | Linux | 50 | X | O | X |
 [Pinpoint-ubuntu-18.04-64-server](vpc_products/Pinpoint-ubuntu-18.04-64-server.md) | Ubuntu Server 18.04 with Pinpoint | SW.VSVR.APP.LNX64.UBNTU.SVR1804.PINPT.LATEST.B050 | Linux | 50 | X | X | O |
+[PostgreSQL 13.3-centos-7.8-64](vpc_products/PostgreSQL+13.3-centos-7.8-64.md) | CentOS 7.8 with PostgreSQL 13.3 | SW.VSVR.DBMS.LNX64.CNTOS.0708.PSTGR.1303.B050 | Linux | 50 | O | O | X |
+[PostgreSQL 14.3-centos-7.8-64](vpc_products/PostgreSQL+14.3-centos-7.8-64.md) | CentOS 7.8 with PostgreSQL 14.3 | SW.VSVR.DBMS.LNX64.CNTOS.0708.PSTGR.1403.B050 | Linux | 50 | O | O | X |
 [PostgreSQL 9.4-centos-7.3-64](vpc_products/PostgreSQL+9.4-centos-7.3-64.md) | CentOS 7.3 with PostgreSQL 9.4 | SW.VSVR.DBMS.LNX64.CNTOS.0703.PSTGR.0904.B050 | Linux | 50 | X | O | X |
 [rabbitmq-centos-7.8-64](vpc_products/rabbitmq-centos-7.8-64.md) | CentOS 7.8 with RabbitMQ | SW.VSVR.APP.LNX64.CNTOS.0708.RBBT.LATEST.B050 | Linux | 50 | O | X | X |
 [Red Hat Enterprise Linux 7.6 (64-bit)](vpc_products/Red+Hat+Enterprise+Linux+7.6+%2864-bit%29.md) | Red Hat Enterprise Linux 7.6 (64-bit) | SW.VSVR.OS.LNX64.RHEL.0706.B050.H001 | Linux | 50 | X | O | O |
 [Red Hat Enterprise Linux 8.2 (64-bit)](vpc_products/Red+Hat+Enterprise+Linux+8.2+%2864-bit%29.md) | Red Hat Enterprise Linux 8.2 (64-bit) | SW.VSVR.OS.LNX64.RHEL.0802.B050.H001 | Linux | 50 | X | O | X |
+[Red Hat Enterprise Linux 8.6 (64-bit)](vpc_products/Red+Hat+Enterprise+Linux+8.6+%2864-bit%29.md) | Red Hat Enterprise Linux 8.6 (64-bit) | SW.VSVR.OS.LNX64.RHEL.0806.B050.H001 | Linux | 50 | X | O | O |
 [redis(3.2.8)-centos-7.3-64](vpc_products/redis%283.2.8%29-centos-7.3-64.md) | CentOS 7.3 with Redis 4.0.14 | SW.VSVR.DBMS.LNX64.CNTOS.0703.REDIS.4014.B050 | Linux | 50 | X | O | X |
 [redis(4.0.14)-ubuntu-16.04-64-server](vpc_products/redis%284.0.14%29-ubuntu-16.04-64-server.md) | Ubuntu Server 16.04 with Redis 4.0.14 | SW.VSVR.DBMS.LNX64.UBNTU.SVR1604.REDIS.4014.B050 | Linux | 50 | X | O | X |
+[Rocky Linux 8](vpc_products/Rocky+Linux+8.md) | Rocky Linux 8.6 | SW.VSVR.OS.LNX64.ROCKY.0806.B050 | Linux | 50 | O | X | X |
 [Superset-Ubuntu-16.04-64](vpc_products/Superset-Ubuntu-16.04-64.md) | Ubuntu 16.04 (64-bit) with Superset | SW.VSVR.APP.LNX64.UBNTU.SVR1604.SPRPG.LATEST.B050 | Linux | 50 | O | X | X |
 [tensorflow-centos-7.8-64](vpc_products/tensorflow-centos-7.8-64.md) | CentOS 7.8 (64-bit) with Tensorflow | SW.VSVR.APP.LNX64.CNTOS.0708.TNSFL.LATEST.B050 | Linux | 50 | O | X | X |
 [tensorflow-Ubuntu-16.04-64](vpc_products/tensorflow-Ubuntu-16.04-64.md) | Ubuntu 16.04 (64-bit) with Tensorflow | SW.VSVR.APP.LNX64.UBNTU.SVR1604.TNSFL.LATEST.B050 | Linux | 50 | O | X | X |
@@ -58,7 +61,6 @@ Image Name | Description | Image code | Type | B/S Size(GB) | Pub | Fin | Gov |
 [Tomcat-centos-7.8-64](vpc_products/Tomcat-centos-7.8-64.md) | CentOS 7.8 (64-bit) with Tomcat | SW.VSVR.APP.LNX64.CNTOS.0708.TOMCT.LATEST.B050 | Linux | 50 | O | O | O |
 [Tomcat-Ubuntu-16.04-64](vpc_products/Tomcat-Ubuntu-16.04-64.md) | Ubuntu 16.04 (64-bit) with Tomcat | SW.VSVR.APP.LNX64.UBNTU.SVR1604.TOMCT.LATEST.B050 | Linux | 50 | O | O | X |
 [Tomcat-Ubuntu-18.04-64](vpc_products/Tomcat-Ubuntu-18.04-64.md) | Ubuntu 18.04 (64-bit) with Tomcat | SW.VSVR.APP.LNX64.UBNTU.SVR1804.TOMCT.LATEST.B050 | Linux | 50 | X | X | O |
-[ubuntu-14.04-64-server](vpc_products/ubuntu-14.04-64-server.md) | Ubuntu Server 14.04  | SW.VSVR.OS.LNX64.UBNTU.SVR1404.B050 | Linux | 50 | X | O | X |
 [ubuntu-16.04-64-server](vpc_products/ubuntu-16.04-64-server.md) | Ubuntu Server 16.04 (64-bit)  | SW.VSVR.OS.LNX64.UBNTU.SVR1604.B050 | Linux | 50 | O | O | X |
 [ubuntu-18.04](vpc_products/ubuntu-18.04.md) | Ubuntu Server 18.04 (64-bit)  | SW.VSVR.OS.LNX64.UBNTU.SVR1804.B050 | Linux | 50 | O | O | O |
 [ubuntu-20.04](vpc_products/ubuntu-20.04.md) | Ubuntu Server 20.04 (64-bit) | SW.VSVR.OS.LNX64.UBNTU.SVR2004.B050 | Linux | 50 | O | O | O |
@@ -69,7 +71,7 @@ Image Name | Description | Image code | Type | B/S Size(GB) | Pub | Fin | Gov |
 [win-2016-64-ko](vpc_products/win-2016-64-ko.md) | Windows Server 2016 (64-bit) Korean Edition | SW.VSVR.OS.WND64.WND.SVR2016KO.B100 | Windows NT | 100 | X | X | O |
 [win-2019-64-ko](vpc_products/win-2019-64-ko.md) | Windows Server 2019 (64-bit) Korean Edition | SW.VSVR.OS.WND64.WND.SVR2019KO.B100 | Windows NT | 100 | X | X | O |
 [Windows Server 2016 (64-bit) English Edition](vpc_products/Windows+Server+2016+%2864-bit%29+English+Edition.md) | Windows Server 2016 (64-bit) English Edition | SW.VSVR.OS.WND64.WND.SVR2016EN.B100 | Windows NT | 100 | O | O | X |
-[Windows Server 2019 (64-bit) English Edition](vpc_products/Windows+Server+2019+%2864-bit%29+English+Edition.md) | Windows Server 2019 (64-bit) English Edition | SW.VSVR.OS.WND64.WND.SVR2019EN.B100 | Windows NT | 100 | O | X | X |
+[Windows Server 2019 (64-bit) English Edition](vpc_products/Windows+Server+2019+%2864-bit%29+English+Edition.md) | Windows Server 2019 (64-bit) English Edition | SW.VSVR.OS.WND64.WND.SVR2019EN.B100 | Windows NT | 100 | O | O | X |
 
 ### Server Image Products (Classic)
 
