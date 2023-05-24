@@ -2,10 +2,10 @@
 
 Product Name | Product code | Type | Gen | Pub | Fin | Gov |
 -- | -- | -- | -- | -- | -- | -- |
-Tesla P40 GPU 1EA, GPUMemory 24GB, vCPU 4EA, Memory 30GB, Disk 50GB | SPSVRGPU00000001 | GPU |  | X | X | O |
-Tesla P40 GPU 1EA, GPUMemory 24GB, vCPU 4EA, Memory 30GB, [SSD]Disk 50GB | SPSVRGPUSSD00001 | GPU |  | X | X | O |
-Tesla P40 GPU 2EA, GPUMemory 48GB, vCPU 8EA, Memory 60GB, Disk 50GB | SPSVRGPU00000002 | GPU |  | X | X | O |
-Tesla P40 GPU 2EA, GPUMemory 48GB, vCPU 8EA, Memory 60GB, [SSD]Disk 50GB | SPSVRGPUSSD00002 | GPU |  | X | X | O |
+Tesla P40 GPU 1EA, GPUMemory 24GB, vCPU 4EA, Memory 30GB, Disk 50GB | SPSVRGPU00000001 | GPU |  | O | X | O |
+Tesla P40 GPU 1EA, GPUMemory 24GB, vCPU 4EA, Memory 30GB, [SSD]Disk 50GB | SPSVRGPUSSD00001 | GPU |  | O | X | O |
+Tesla P40 GPU 2EA, GPUMemory 48GB, vCPU 8EA, Memory 60GB, Disk 50GB | SPSVRGPU00000002 | GPU |  | O | X | O |
+Tesla P40 GPU 2EA, GPUMemory 48GB, vCPU 8EA, Memory 60GB, [SSD]Disk 50GB | SPSVRGPUSSD00002 | GPU |  | O | X | O |
 Tesla V100 GPU 1EA, GPUMemory 32GB, vCPU 8EA, Memory 90GB, Disk 50GB | SPSVRGPU00000003 | GPU |  | O | X | O |
 Tesla V100 GPU 1EA, GPUMemory 32GB, vCPU 8EA, Memory 90GB, [SSD]Disk 50GB | SPSVRGPUSSD00005 | GPU |  | O | X | O |
 Tesla V100 GPU 2EA, GPUMemory 64GB, vCPU 16EA, Memory 180GB, Disk 50GB | SPSVRGPU00000004 | GPU |  | O | X | O |

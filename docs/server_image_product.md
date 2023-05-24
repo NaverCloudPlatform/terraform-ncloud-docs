@@ -51,7 +51,7 @@ Image Name | Description | Image code | Type | B/S Size(GB) | Pub | Fin | Gov |
 [Red Hat Enterprise Linux 8.6 (64-bit)](vpc_products/Red+Hat+Enterprise+Linux+8.6+%2864-bit%29.md) | Red Hat Enterprise Linux 8.6 (64-bit) | SW.VSVR.OS.LNX64.RHEL.0806.B050.H001 | Linux | 50 | X | O | O |
 [redis(3.2.8)-centos-7.3-64](vpc_products/redis%283.2.8%29-centos-7.3-64.md) | CentOS 7.3 with Redis 4.0.14 | SW.VSVR.DBMS.LNX64.CNTOS.0703.REDIS.4014.B050 | Linux | 50 | X | O | X |
 [redis(4.0.14)-ubuntu-16.04-64-server](vpc_products/redis%284.0.14%29-ubuntu-16.04-64-server.md) | Ubuntu Server 16.04 with Redis 4.0.14 | SW.VSVR.DBMS.LNX64.UBNTU.SVR1604.REDIS.4014.B050 | Linux | 50 | X | O | X |
-[Rocky Linux 8](vpc_products/Rocky+Linux+8.md) | Rocky Linux 8.6 | SW.VSVR.OS.LNX64.ROCKY.0806.B050 | Linux | 50 | O | X | X |
+[Rocky Linux 8.6](vpc_products/Rocky+Linux+8.6.md) | Rocky Linux 8.6 | SW.VSVR.OS.LNX64.ROCKY.0806.B050 | Linux | 50 | O | O | O |
 [Superset-Ubuntu-16.04-64](vpc_products/Superset-Ubuntu-16.04-64.md) | Ubuntu 16.04 (64-bit) with Superset | SW.VSVR.APP.LNX64.UBNTU.SVR1604.SPRPG.LATEST.B050 | Linux | 50 | O | X | X |
 [tensorflow-centos-7.8-64](vpc_products/tensorflow-centos-7.8-64.md) | CentOS 7.8 (64-bit) with Tensorflow | SW.VSVR.APP.LNX64.CNTOS.0708.TNSFL.LATEST.B050 | Linux | 50 | O | X | X |
 [tensorflow-Ubuntu-16.04-64](vpc_products/tensorflow-Ubuntu-16.04-64.md) | Ubuntu 16.04 (64-bit) with Tensorflow | SW.VSVR.APP.LNX64.UBNTU.SVR1604.TNSFL.LATEST.B050 | Linux | 50 | O | X | X |
@@ -61,7 +61,7 @@ Image Name | Description | Image code | Type | B/S Size(GB) | Pub | Fin | Gov |
 [Tomcat-centos-7.8-64](vpc_products/Tomcat-centos-7.8-64.md) | CentOS 7.8 (64-bit) with Tomcat | SW.VSVR.APP.LNX64.CNTOS.0708.TOMCT.LATEST.B050 | Linux | 50 | O | O | O |
 [Tomcat-Ubuntu-16.04-64](vpc_products/Tomcat-Ubuntu-16.04-64.md) | Ubuntu 16.04 (64-bit) with Tomcat | SW.VSVR.APP.LNX64.UBNTU.SVR1604.TOMCT.LATEST.B050 | Linux | 50 | O | O | X |
 [Tomcat-Ubuntu-18.04-64](vpc_products/Tomcat-Ubuntu-18.04-64.md) | Ubuntu 18.04 (64-bit) with Tomcat | SW.VSVR.APP.LNX64.UBNTU.SVR1804.TOMCT.LATEST.B050 | Linux | 50 | X | X | O |
-[ubuntu-16.04-64-server](vpc_products/ubuntu-16.04-64-server.md) | Ubuntu Server 16.04 (64-bit)  | SW.VSVR.OS.LNX64.UBNTU.SVR1604.B050 | Linux | 50 | O | O | X |
+[ubuntu-16.04](vpc_products/ubuntu-16.04.md) | Ubuntu Server 16.04 (64-bit)  | SW.VSVR.OS.LNX64.UBNTU.SVR1604.B050 | Linux | 50 | O | O | X |
 [ubuntu-18.04](vpc_products/ubuntu-18.04.md) | Ubuntu Server 18.04 (64-bit)  | SW.VSVR.OS.LNX64.UBNTU.SVR1804.B050 | Linux | 50 | O | O | O |
 [ubuntu-20.04](vpc_products/ubuntu-20.04.md) | Ubuntu Server 20.04 (64-bit) | SW.VSVR.OS.LNX64.UBNTU.SVR2004.B050 | Linux | 50 | O | O | O |
 [WebtoB-centos-7.8-64](vpc_products/WebtoB-centos-7.8-64.md) | CentOS 7.8 (64-bit) with WebtoB | SW.VSVR.APP.LNX64.CNTOS.0708.WEBTB.LATEST.B050 | Linux | 50 | O | O | O |
@@ -79,9 +79,9 @@ Image Name | Description | Image code | Type | B/S Size(GB) | Pub | Fin | Gov |
 -- | -- | -- | -- | -- | -- | -- | -- |
 [CentOS 7.8 with RabbitMQ](classic_products/CentOS+7.8+with+RabbitMQ.md) | CentOS 7.8 with RabbitMQ | SPSW0LINUX000142 | Linux | 50 | O | X | X |
 [centos-7.2-64](classic_products/centos-7.2-64.md) | CentOS 7.2 (64-bit) | SPSW0LINUX000045 | Linux | 50 | O | X | X |
-[centos-7.3-64](classic_products/centos-7.3-64.md) | CentOS 7.3 (64-bit) | SPSW0LINUX000046 | Linux | 50 | O | X | O |
+[centos-7.3-64](classic_products/centos-7.3-64.md) | CentOS 7.3 (64-bit) | SPSW0LINUX000046 | Linux | 50 | O | X | X |
 [centos-7.8-64](classic_products/centos-7.8-64.md) | CentOS 7.8 (64-bit) | SPSW0LINUX000139 | Linux | 50 | O | X | O |
-[cubrid(9.2)-centos-7.3-64](classic_products/cubrid%289.2%29-centos-7.3-64.md) | CentOS 7.3 with Cubrid 9.2 | SPSW0LINUX000060 | Linux | 50 | O | X | O |
+[cubrid(9.2)-centos-7.3-64](classic_products/cubrid%289.2%29-centos-7.3-64.md) | CentOS 7.3 with Cubrid 9.2 | SPSW0LINUX000060 | Linux | 50 | O | X | X |
 [cubrid(9.2)-ubuntu-14.04-64-server](classic_products/cubrid%289.2%29-ubuntu-14.04-64-server.md) | Ubuntu Server 14.04 with Cubrid 9.2 | SPSW0LINUX000058 | Linux | 50 | O | X | X |
 [cubrid(9.2)-ubuntu-16.04-64-server](classic_products/cubrid%289.2%29-ubuntu-16.04-64-server.md) | Ubuntu Server 16.04 with Cubrid 9.2 | SPSW0LINUX000059 | Linux | 50 | O | X | X |
 [GitLab-centos-7.3-64](classic_products/GitLab-centos-7.3-64.md) | CentOS 7.3 (64-bit) with GitLab | SPSW0LINUX000117 | Linux | 50 | O | X | X |
@@ -92,19 +92,19 @@ Image Name | Description | Image code | Type | B/S Size(GB) | Pub | Fin | Gov |
 [HUGO-centos-7.3-64](classic_products/HUGO-centos-7.3-64.md) | CentOS 7.3 (64-bit) with HUGO | SPSW0LINUX000121 | Linux | 50 | O | X | X |
 [HUGO-centos-7.8-64](classic_products/HUGO-centos-7.8-64.md) | CentOS 7.8 (64-bit) with HUGO | SPSW0LINUX000153 | Linux | 50 | O | X | X |
 [HUGO-Ubuntu-16.04-64](classic_products/HUGO-Ubuntu-16.04-64.md) | Ubuntu 16.04 (64-bit) with HUGO | SPSW0LINUX000120 | Linux | 50 | O | X | X |
-[Jenkins-CentOS-7.3](classic_products/Jenkins-CentOS-7.3.md) | CentOS 7.3 with Jenkins | SPSW0LINUX000068 | Linux | 50 | O | X | O |
+[Jenkins-CentOS-7.3](classic_products/Jenkins-CentOS-7.3.md) | CentOS 7.3 with Jenkins | SPSW0LINUX000068 | Linux | 50 | O | X | X |
 [Jenkins-CentOS-7.8](classic_products/Jenkins-CentOS-7.8.md) | CentOS 7.8 with Jenkins | SPSW0LINUX000141 | Linux | 50 | O | X | X |
 [Jenkins-Ubuntu-16.04](classic_products/Jenkins-Ubuntu-16.04.md) | Ubuntu 16.04 with Jenkins | SPSW0LINUX000067 | Linux | 50 | O | X | X |
-[JEUS-centos-7.3-64](classic_products/JEUS-centos-7.3-64.md) | CentOS 7.3 with JEUS | SPSW0LINUX000126 | Linux | 50 | O | X | O |
+[JEUS-centos-7.3-64](classic_products/JEUS-centos-7.3-64.md) | CentOS 7.3 with JEUS | SPSW0LINUX000126 | Linux | 50 | O | X | X |
 [JEUS-centos-7.8-64](classic_products/JEUS-centos-7.8-64.md) | CentOS 7.8 with JEUS | SPSW0LINUX000155 | Linux | 50 | O | X | X |
 [JEUS-ubuntu-16.04-64](classic_products/JEUS-ubuntu-16.04-64.md) | Ubuntu Server 16.04 with JEUS | SPSW0LINUX000127 | Linux | 50 | O | X | X |
 [Joomla!-centos-7.3-64](classic_products/Joomla%21-centos-7.3-64.md) | CentOS 7.3 (64-bit) with Joomla! | SPSW0LINUX000097 | Linux | 50 | O | X | X |
 [Joomla!-centos-7.8-64](classic_products/Joomla%21-centos-7.8-64.md) | CentOS 7.8 (64-bit) with Joomla! | SPSW0LINUX000148 | Linux | 50 | O | X | X |
 [Joomla!-Ubuntu-16.04-64](classic_products/Joomla%21-Ubuntu-16.04-64.md) | Ubuntu 16.04 (64-bit) with Joomla! | SPSW0LINUX000096 | Linux | 50 | O | X | X |
-[LAMP-centos-7.3.64](classic_products/LAMP-centos-7.3.64.md) | CentOS 7.3 (64-bit) with LAMP | SPSW0LINUX000086 | Linux | 50 | O | X | O |
-[LAMP-CentOS-7.8.64](classic_products/LAMP-CentOS-7.8.64.md) | CentOS 7.8 (64-bit) with LAMP | SPSW0LINUX000144 | Linux | 50 | O | X | X |
+[LAMP-centos-7.3.64](classic_products/LAMP-centos-7.3.64.md) | CentOS 7.3 (64-bit) with LAMP | SPSW0LINUX000086 | Linux | 50 | O | X | X |
+[LAMP-centos-7.8-64](classic_products/LAMP-centos-7.8-64.md) | CentOS 7.8 (64-bit) with LAMP | SPSW0LINUX000144 | Linux | 50 | O | X | X |
 [LAMP-Ubuntu-16.04-64](classic_products/LAMP-Ubuntu-16.04-64.md) | Ubuntu 16.04 (64-bit) with LAMP | SPSW0LINUX000087 | Linux | 50 | O | X | X |
-[LEMP-centos-7.3-64](classic_products/LEMP-centos-7.3-64.md) | CentOS 7.3 (64-bit) with LEMP | SPSW0LINUX000119 | Linux | 50 | O | X | O |
+[LEMP-centos-7.3-64](classic_products/LEMP-centos-7.3-64.md) | CentOS 7.3 (64-bit) with LEMP | SPSW0LINUX000119 | Linux | 50 | O | X | X |
 [LEMP-centos-7.8-64](classic_products/LEMP-centos-7.8-64.md) | CentOS 7.8 (64-bit) with LEMP | SPSW0LINUX000152 | Linux | 50 | O | X | X |
 [LEMP-Ubuntu-16.04-64](classic_products/LEMP-Ubuntu-16.04-64.md) | Ubuntu 16.04 (64-bit) with LEMP | SPSW0LINUX000118 | Linux | 50 | O | X | X |
 [mariadb(10.2)-centos-7.3-64](classic_products/mariadb%2810.2%29-centos-7.3-64.md) | CentOS 7.3 with MariaDB 10.2 | SPSW0LINUX000074 | Linux | 50 | O | X | X |
@@ -121,13 +121,12 @@ Image Name | Description | Image code | Type | B/S Size(GB) | Pub | Fin | Gov |
 [mysql(5.6)-centos-7.2-64](classic_products/mysql%285.6%29-centos-7.2-64.md) | CentOS 7.2 with MySQL 5.6 | SPSW0LINUX000049 | Linux | 50 | O | X | X |
 [mysql(5.6)-ubuntu-14.04-64-server](classic_products/mysql%285.6%29-ubuntu-14.04-64-server.md) | Ubuntu Server 14.04 with MySQL 5.6 | SPSW0LINUX000051 | Linux | 50 | O | X | X |
 [mysql(5.7)-centos-7.2-64](classic_products/mysql%285.7%29-centos-7.2-64.md) | CentOS 7.2 with MySQL 5.7 | SPSW0LINUX000050 | Linux | 50 | O | X | X |
-[mysql(5.7)-centos-7.3-64](classic_products/mysql%285.7%29-centos-7.3-64.md) | CentOS 7.3 (64-bit) with MySQL 5.7 | SPSW0LINUX000102 | Linux | 50 | X | X | O |
 [mysql(5.7)-ubuntu-14.04-64-server](classic_products/mysql%285.7%29-ubuntu-14.04-64-server.md) | Ubuntu Server 14.04 with MySQL 5.7 | SPSW0LINUX000052 | Linux | 50 | O | X | X |
 [mysql(5.7)-ubuntu-16.04-64-server](classic_products/mysql%285.7%29-ubuntu-16.04-64-server.md) | Ubuntu Server 16.04 with MySQL 5.7 | SPSW0LINUX000054 | Linux | 50 | O | X | X |
-[Node.js-centos-7.3-64](classic_products/Node.js-centos-7.3-64.md) | CentOS 7.3 (64-bit) with Node.js | SPSW0LINUX000107 | Linux | 50 | O | X | O |
+[Node.js-centos-7.3-64](classic_products/Node.js-centos-7.3-64.md) | CentOS 7.3 (64-bit) with Node.js | SPSW0LINUX000107 | Linux | 50 | O | X | X |
 [Node.js-centos-7.8-64](classic_products/Node.js-centos-7.8-64.md) | CentOS 7.8 (64-bit) with Node.js | SPSW0LINUX000150 | Linux | 50 | O | X | X |
 [Node.js-Ubuntu-16.04-64](classic_products/Node.js-Ubuntu-16.04-64.md) | Ubuntu 16.04 (64-bit) with Node.js | SPSW0LINUX000106 | Linux | 50 | O | X | X |
-[Pinpoint(1.7.3)-centos-7.3-64](classic_products/Pinpoint%281.7.3%29-centos-7.3-64.md) | CentOS 7.3 with Pinpoint 1.7.3 | SPSW0LINUX000080 | Linux | 50 | O | X | O |
+[Pinpoint(1.7.3)-centos-7.3-64](classic_products/Pinpoint%281.7.3%29-centos-7.3-64.md) | CentOS 7.3 with Pinpoint 1.7.3 | SPSW0LINUX000080 | Linux | 50 | O | X | X |
 [Pinpoint(1.7.3)-ubuntu-14.04-64](classic_products/Pinpoint%281.7.3%29-ubuntu-14.04-64.md) | Ubuntu 14.04 with Pinpoint 1.7.3​ | SPSW0LINUX000082 | Linux | 50 | O | X | X |
 [Pinpoint(1.7.3)-ubuntu-16.04-64](classic_products/Pinpoint%281.7.3%29-ubuntu-16.04-64.md) | Ubuntu 16.04 with Pinpoint 1.7.3 | SPSW0LINUX000083 | Linux | 50 | O | X | X |
 [Pinpoint-centos-7.8-64](classic_products/Pinpoint-centos-7.8-64.md) | CentOS 7.8 with Pinpoint | SPSW0LINUX000143 | Linux | 50 | O | X | X |
@@ -141,24 +140,24 @@ Image Name | Description | Image code | Type | B/S Size(GB) | Pub | Fin | Gov |
 [Shadowsocks-centos-7.8-64](classic_products/Shadowsocks-centos-7.8-64.md) | CentOS 7.8 (64-bit) with Shadowsocks | SPSW0LINUX000149 | Linux | 50 | O | X | X |
 [Shadowsocks-Ubuntu-16.04-64](classic_products/Shadowsocks-Ubuntu-16.04-64.md) | Ubuntu 16.04 (64-bit) with Shadowsocks | SPSW0LINUX000098 | Linux | 50 | O | X | X |
 [Superset ubuntu-16.04-64](classic_products/Superset+ubuntu-16.04-64.md) | Ubuntu Server 16.04 with Superset and PostgreSQL | SPSW0LINUX000131 | Linux | 50 | O | X | X |
-[tensorflow-centos-7.3-64](classic_products/tensorflow-centos-7.3-64.md) | CentOS 7.3 with Tensorflow | SPSW0LINUX000066 | Linux | 50 | O | X | O |
+[tensorflow-centos-7.3-64](classic_products/tensorflow-centos-7.3-64.md) | CentOS 7.3 with Tensorflow | SPSW0LINUX000066 | Linux | 50 | O | X | X |
 [tensorflow-centos-7.8-64](classic_products/tensorflow-centos-7.8-64.md) | CentOS 7.8 with Tensorflow | SPSW0LINUX000140 | Linux | 50 | O | X | X |
 [tensorflow-cluster-ubuntu-16.04-64-master](classic_products/tensorflow-cluster-ubuntu-16.04-64-master.md) | Ubuntu 16.04 with Tensorflow Cluster | SPSW0LINUX000079 | Linux | 50 | O | X | X |
 [tensorflow-ubuntu-16.04-64-server](classic_products/tensorflow-ubuntu-16.04-64-server.md) | Ubuntu Server 16.04 with Tensorflow | SPSW0LINUX000065 | Linux | 50 | O | X | X |
-[Tibero-centos-7.3-64](classic_products/Tibero-centos-7.3-64.md) | CentOS 7.3 with Tibero | SPSW0LINUX000128 | Linux | 50 | O | X | O |
+[Tibero-centos-7.3-64](classic_products/Tibero-centos-7.3-64.md) | CentOS 7.3 with Tibero | SPSW0LINUX000128 | Linux | 50 | O | X | X |
 [Tibero-centos-7.8-64](classic_products/Tibero-centos-7.8-64.md) | CentOS 7.8 with Tibero | SPSW0LINUX000157 | Linux | 50 | O | X | O |
-[Tomcat-centos-7.3-64](classic_products/Tomcat-centos-7.3-64.md) | CentOS 7.3 with Tomcat | SPSW0LINUX000138 | Linux | 50 | O | X | O |
+[Tomcat-centos-7.3-64](classic_products/Tomcat-centos-7.3-64.md) | CentOS 7.3 with Tomcat | SPSW0LINUX000138 | Linux | 50 | O | X | X |
 [Tomcat-centos-7.8-64](classic_products/Tomcat-centos-7.8-64.md) | CentOS 7.8 with Tomcat | SPSW0LINUX000156 | Linux | 50 | O | X | X |
 [Tomcat-Ubuntu-16.04-64](classic_products/Tomcat-Ubuntu-16.04-64.md) | Ubuntu 16.04 (64-bit) with Tomcat | SPSW0LINUX000137 | Linux | 50 | O | X | X |
 [ubuntu-16.04-64-server](classic_products/ubuntu-16.04-64-server.md) | Ubuntu Server 16.04 (64-bit)  | SPSW0LINUX000029 | Linux | 50 | O | X | X |
 [ubuntu-18.04](classic_products/ubuntu-18.04.md) | Ubuntu Server 18.04 (64-bit)  | SPSW0LINUX000130 | Linux | 50 | O | X | O |
-[WebtoB-centos-7.3-64](classic_products/WebtoB-centos-7.3-64.md) | CentOS 7.3 with WebtoB | SPSW0LINUX000124 | Linux | 50 | O | X | O |
+[WebtoB-centos-7.3-64](classic_products/WebtoB-centos-7.3-64.md) | CentOS 7.3 with WebtoB | SPSW0LINUX000124 | Linux | 50 | O | X | X |
 [WebtoB-centos-7.8-64](classic_products/WebtoB-centos-7.8-64.md) | CentOS 7.8 with WebtoB | SPSW0LINUX000154 | Linux | 50 | O | X | X |
 [WebtoB-ubuntu-16.04-64](classic_products/WebtoB-ubuntu-16.04-64.md) | Ubuntu Server 16.04 with WebtoB | SPSW0LINUX000125 | Linux | 50 | O | X | X |
 [win-2012-64-R2](classic_products/win-2012-64-R2.md) | Windows Server 2012 (64-bit) R2 | SPSW0WINNT000015A | Windows NT | 100 | X | X | O |
 [win-2012-64-R2-en](classic_products/win-2012-64-R2-en.md) | Windows Server 2012 (64bit) R2 English Edition | SPSW0WINNTEN0015A | Windows NT | 100 | O | X | X |
 [Windows Server 2016 (64-bit)](classic_products/Windows+Server+2016+%2864-bit%29.md) | Windows Server 2016 (64-bit) | SPSW0WINNT000016A | Windows NT | 100 | X | X | O |
 [Windows Server 2016 (64-bit) English Edition](classic_products/Windows+Server+2016+%2864-bit%29+English+Edition.md) | Windows Server 2016 (64-bit) English Edition | SPSW0WINNTEN0016A | Windows NT | 100 | O | X | X |
-[WordPress-centos-7.3-64](classic_products/WordPress-centos-7.3-64.md) | CentOS 7.3 (64-bit) with WordPress | SPSW0LINUX000089 | Linux | 50 | O | X | O |
+[WordPress-centos-7.3-64](classic_products/WordPress-centos-7.3-64.md) | CentOS 7.3 (64-bit) with WordPress | SPSW0LINUX000089 | Linux | 50 | O | X | X |
 [WordPress-centos-7.8-64](classic_products/WordPress-centos-7.8-64.md) | CentOS 7.8 (64-bit) with WordPress | SPSW0LINUX000145 | Linux | 50 | O | X | X |
 [WordPress-Ubuntu-16.04-64](classic_products/WordPress-Ubuntu-16.04-64.md) | Ubuntu 16.04 (64-bit) with WordPress | SPSW0LINUX000088 | Linux | 50 | O | X | X |
