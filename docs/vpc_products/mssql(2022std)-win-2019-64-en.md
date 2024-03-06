@@ -1,4 +1,4 @@
-### Server products of image(Windows 2019 Server R2 with MSSQL 2019 Standard English Edition) - SW.VSVR.DBMS.WND64.WND.SVR2019STDEN.MSSQL.2019.B100
+### Server products of image(Windows 2019 Server R2 with MSSQL 2022 Standard English Edition) - SW.VSVR.DBMS.WND64.WND.SVR2019STDEN.MSSQL.2022.B100
 
 Product Name | Product code | Type | Gen | Pub | Fin | Gov |
 -- | -- | -- | -- | -- | -- | -- |
@@ -30,10 +30,18 @@ vCPU 2EA, Memory 8GB, Disk 100GB | SVR.VSVR.STAND.C002.M008.NET.HDD.B100.G002 | 
 vCPU 2EA, Memory 8GB, Disk 100GB | SVR.VSVR.STAND.C002.M008.NET.HDD.B100.G001 | Standard | G1 | X | O | X |
 vCPU 2EA, Memory 8GB, [SSD]Disk 100GB | SVR.VSVR.STAND.C002.M008.NET.SSD.B100.G002 | Standard | G2 | O | X | X |
 vCPU 2EA, Memory 8GB, [SSD]Disk 100GB | SVR.VSVR.STAND.C002.M008.NET.SSD.B100.G001 | Standard | G1 | X | O | X |
+vCPU 32EA, Memory 128GB, Disk 100GB | SVR.VSVR.STAND.C032.M128.NET.HDD.B100.G002 | Standard | G2 | O | X | X |
 vCPU 32EA, Memory 128GB, Disk 100GB | SVR.VSVR.HIMEM.C032.M128.NET.HDD.B100.G001 | High Memory | G1 | X | O | X |
+vCPU 32EA, Memory 128GB, [SSD]Disk 100GB | SVR.VSVR.STAND.C032.M128.NET.SSD.B100.G002 | Standard | G2 | O | X | X |
 vCPU 32EA, Memory 128GB, [SSD]Disk 100GB | SVR.VSVR.HIMEM.C032.M128.NET.SSD.B100.G001 | High Memory | G1 | X | O | X |
+vCPU 32EA, Memory 256GB, Disk 100GB | SVR.VSVR.HIMEM.C032.M256.NET.HDD.B100.G002 | High Memory | G2 | O | X | X |
 vCPU 32EA, Memory 256GB, Disk 100GB | SVR.VSVR.HIMEM.C032.M256.NET.HDD.B100.G001 | High Memory | G1 | X | O | X |
+vCPU 32EA, Memory 256GB, [SSD]Disk 100GB | SVR.VSVR.HIMEM.C032.M256.NET.SSD.B100.G002 | High Memory | G2 | O | X | X |
 vCPU 32EA, Memory 256GB, [SSD]Disk 100GB | SVR.VSVR.HIMEM.C032.M256.NET.SSD.B100.G001 | High Memory | G1 | X | O | X |
+vCPU 32EA, Memory 64GB, Disk 100GB | SVR.VSVR.HICPU.C032.M064.NET.HDD.B100.G002 | High CPU | G2 | O | X | X |
+vCPU 32EA, Memory 64GB, Disk 100GB | SVR.VSVR.CPU.C032.M064.NET.HDD.B100.G002 | CPU Intensive | G2 | O | X | X |
+vCPU 32EA, Memory 64GB, [SSD]Disk 100GB | SVR.VSVR.HICPU.C032.M064.NET.SSD.B100.G002 | High CPU | G2 | O | X | X |
+vCPU 32EA, Memory 64GB, [SSD]Disk 100GB | SVR.VSVR.CPU.C032.M064.NET.SSD.B100.G002 | CPU Intensive | G2 | O | X | X |
 vCPU 4EA, Memory 16GB, Disk 100GB | SVR.VSVR.STAND.C004.M016.NET.HDD.B100.G002 | Standard | G2 | O | X | X |
 vCPU 4EA, Memory 16GB, Disk 100GB | SVR.VSVR.STAND.C004.M016.NET.HDD.B100.G001 | Standard | G1 | X | O | X |
 vCPU 4EA, Memory 16GB, [SSD]Disk 100GB | SVR.VSVR.STAND.C004.M016.NET.SSD.B100.G002 | Standard | G2 | O | X | X |
