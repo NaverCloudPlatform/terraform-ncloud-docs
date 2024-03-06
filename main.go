@@ -3,7 +3,6 @@ package main
 import (
 	"bytes"
 	"fmt"
-	"io/ioutil"
 	"net/url"
 	"os"
 	"path/filepath"
@@ -26,13 +25,13 @@ type Accounts struct {
 		Region    string `yaml:"region"`
 		AccessKey string `yaml:"accessKey"`
 		SecretKey string `yaml:"secretKey"`
-		ApiUrl    string `yaml:"apiUrl"`
+		ApiUrl    string `yaml:"api_url"`
 	} `yaml:"accounts"`
 }
 
 func main() {
 	filename, _ := filepath.Abs("account.yaml")
-	yamlFile, err := ioutil.ReadFile(filename)
+	yamlFile, err := os.ReadFile(filename)
 	if err != nil {
 		return
 	}

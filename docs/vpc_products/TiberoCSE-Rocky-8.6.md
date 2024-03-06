@@ -1,0 +1,26 @@
+### Server products of image(Rocky Linux 8.6 with Tibero 7 CSE (Cloud Standard Edition)) - SW.VSVR.DBMS.LNX64.ROCKY.0806.TBERO.CSE7.B050
+
+Product Name | Product code | Type | Gen | Pub | Fin | Gov |
+-- | -- | -- | -- | -- | -- | -- |
+vCPU 16EA, Memory 128GB, Disk 50GB | SVR.VSVR.HIMEM.C016.M128.NET.HDD.B050.G002 | High Memory | G2 | X | X | O |
+vCPU 16EA, Memory 128GB, [SSD]Disk 50GB | SVR.VSVR.HIMEM.C016.M128.NET.SSD.B050.G002 | High Memory | G2 | X | X | O |
+vCPU 16EA, Memory 32GB, Disk 50GB | SVR.VSVR.HICPU.C016.M032.NET.HDD.B050.G002 | High CPU | G2 | X | X | O |
+vCPU 16EA, Memory 32GB, [SSD]Disk 50GB | SVR.VSVR.HICPU.C016.M032.NET.SSD.B050.G002 | High CPU | G2 | X | X | O |
+vCPU 16EA, Memory 64GB, Disk 50GB | SVR.VSVR.STAND.C016.M064.NET.HDD.B050.G002 | Standard | G2 | X | X | O |
+vCPU 16EA, Memory 64GB, [SSD]Disk 50GB | SVR.VSVR.STAND.C016.M064.NET.SSD.B050.G002 | Standard | G2 | X | X | O |
+vCPU 2EA, Memory 16GB, Disk 50GB | SVR.VSVR.HIMEM.C002.M016.NET.HDD.B050.G002 | High Memory | G2 | X | X | O |
+vCPU 2EA, Memory 16GB, [SSD]Disk 50GB | SVR.VSVR.HIMEM.C002.M016.NET.SSD.B050.G002 | High Memory | G2 | X | X | O |
+vCPU 2EA, Memory 8GB, Disk 50GB | SVR.VSVR.STAND.C002.M008.NET.HDD.B050.G002 | Standard | G2 | X | X | O |
+vCPU 2EA, Memory 8GB, [SSD]Disk 50GB | SVR.VSVR.STAND.C002.M008.NET.SSD.B050.G002 | Standard | G2 | X | X | O |
+vCPU 4EA, Memory 16GB, Disk 50GB | SVR.VSVR.STAND.C004.M016.NET.HDD.B050.G002 | Standard | G2 | X | X | O |
+vCPU 4EA, Memory 16GB, [SSD]Disk 50GB | SVR.VSVR.STAND.C004.M016.NET.SSD.B050.G002 | Standard | G2 | X | X | O |
+vCPU 4EA, Memory 32GB, Disk 50GB | SVR.VSVR.HIMEM.C004.M032.NET.HDD.B050.G002 | High Memory | G2 | X | X | O |
+vCPU 4EA, Memory 32GB, [SSD]Disk 50GB | SVR.VSVR.HIMEM.C004.M032.NET.SSD.B050.G002 | High Memory | G2 | X | X | O |
+vCPU 4EA, Memory 8GB, Disk 50GB | SVR.VSVR.HICPU.C004.M008.NET.HDD.B050.G002 | High CPU | G2 | X | X | O |
+vCPU 4EA, Memory 8GB, [SSD]Disk 50GB | SVR.VSVR.HICPU.C004.M008.NET.SSD.B050.G002 | High CPU | G2 | X | X | O |
+vCPU 8EA, Memory 16GB, Disk 50GB | SVR.VSVR.HICPU.C008.M016.NET.HDD.B050.G002 | High CPU | G2 | X | X | O |
+vCPU 8EA, Memory 16GB, [SSD]Disk 50GB | SVR.VSVR.HICPU.C008.M016.NET.SSD.B050.G002 | High CPU | G2 | X | X | O |
+vCPU 8EA, Memory 32GB, Disk 50GB | SVR.VSVR.STAND.C008.M032.NET.HDD.B050.G002 | Standard | G2 | X | X | O |
+vCPU 8EA, Memory 32GB, [SSD]Disk 50GB | SVR.VSVR.STAND.C008.M032.NET.SSD.B050.G002 | Standard | G2 | X | X | O |
+vCPU 8EA, Memory 64GB, Disk 50GB | SVR.VSVR.HIMEM.C008.M064.NET.HDD.B050.G002 | High Memory | G2 | X | X | O |
+vCPU 8EA, Memory 64GB, [SSD]Disk 50GB | SVR.VSVR.HIMEM.C008.M064.NET.SSD.B050.G002 | High Memory | G2 | X | X | O |

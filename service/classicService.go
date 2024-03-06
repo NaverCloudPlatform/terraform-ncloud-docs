@@ -20,6 +20,7 @@ func (s classicService) GetServerImageProductList() []*vserver.Product {
 	req := server.GetServerImageProductListRequest{}
 
 	if r, err := s.client.V2Api.GetServerImageProductList(&req); err != nil {
+		log.Println("err")
 		log.Println(err)
 	} else {
 		return convertVpcProducts(r.ProductList)
