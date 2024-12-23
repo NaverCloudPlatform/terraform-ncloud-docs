@@ -20,14 +20,14 @@ vCPU 16EA, Memory 64GB, Disk 50GB | SPSVRSTAND000060 | High Memory |  | O | X | 
 vCPU 16EA, Memory 64GB, Disk 50GB | SPSVRSTAND000075 | Standard |  | O | X | X |
 vCPU 16EA, Memory 64GB, [SSD]Disk 50GB | SPSVRSTAND000064 | High Memory |  | O | X | X |
 vCPU 16EA, Memory 64GB, [SSD]Disk 50GB | SPSVRSTAND000080 | Standard |  | O | X | X |
-vCPU 1EA, Memory 2GB, Disk 50GB | SPSVRSTAND000003 | Compact Server |  | O | X | X |
-vCPU 1EA, Memory 2GB, [SSD]Disk 50GB | SPSVRSSD00000001 | Compact Server |  | O | X | X |
+vCPU 1EA, Memory 2GB, Disk 50GB | SPSVRSTAND000003 | Compact |  | O | X | X |
+vCPU 1EA, Memory 2GB, [SSD]Disk 50GB | SPSVRSSD00000001 | Compact |  | O | X | X |
 vCPU 2EA, Memory 16GB, Disk 50GB | SPSVRSTAND000052 | Standard |  | O | X | X |
 vCPU 2EA, Memory 16GB, Disk 50GB | SPSVRSTAND000082 | High Memory |  | O | X | X |
 vCPU 2EA, Memory 16GB, [SSD]Disk 50GB | SPSVRSSD00000011 | Standard |  | O | X | X |
 vCPU 2EA, Memory 16GB, [SSD]Disk 50GB | SPSVRSTAND000087 | High Memory |  | O | X | X |
-vCPU 2EA, Memory 2GB, Disk 50GB | SPSVRSTAND000049 | Compact Server |  | O | X | X |
-vCPU 2EA, Memory 2GB, [SSD]Disk 50GB | SPSVRSSD00000002 | Compact Server |  | O | X | X |
+vCPU 2EA, Memory 2GB, Disk 50GB | SPSVRSTAND000049 | Compact |  | O | X | X |
+vCPU 2EA, Memory 2GB, [SSD]Disk 50GB | SPSVRSSD00000002 | Compact |  | O | X | X |
 vCPU 2EA, Memory 4GB, Disk 50GB | SPSVRSTAND000004 | Standard |  | O | X | X |
 vCPU 2EA, Memory 4GB, Disk 50GB | SPSVRCPU00000001 | CPU Intensive |  | O | X | X |
 vCPU 2EA, Memory 4GB, Disk 50GB | SPSVRHICPU000001 | High CPU |  | O | X | X |

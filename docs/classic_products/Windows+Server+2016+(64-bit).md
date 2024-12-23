@@ -16,8 +16,8 @@ vCPU 16EA, Memory 64GB, Disk 100GB | SPSVRSTAND000060A | High Memory |  | X | X 
 vCPU 16EA, Memory 64GB, [SSD] Disk 100GB | SPSVRSTAND000064A | High Memory |  | X | X | O |
 vCPU 2EA, Memory 16GB, Disk 100GB | SPSVRSTAND000052A | Standard |  | X | X | O |
 vCPU 2EA, Memory 16GB, [SSD]Disk 100GB | SPSVRSSD00000011A | Standard |  | X | X | O |
-vCPU 2EA, Memory 2GB, Disk 100GB | SPSVRSTAND000049A | Compact Server |  | X | X | O |
-vCPU 2EA, Memory 2GB, [SSD]Disk 100GB | SPSVRSSD00000002A | Compact Server |  | X | X | O |
+vCPU 2EA, Memory 2GB, Disk 100GB | SPSVRSTAND000049A | Compact |  | X | X | O |
+vCPU 2EA, Memory 2GB, [SSD]Disk 100GB | SPSVRSSD00000002A | Compact |  | X | X | O |
 vCPU 2EA, Memory 4GB, Disk 100GB | SPSVRSTAND000004A | Standard |  | X | X | O |
 vCPU 2EA, Memory 4GB, [SSD]Disk 100GB | SPSVRSSD00000003A | Standard |  | X | X | O |
 vCPU 2EA, Memory 8GB, Disk 100GB | SPSVRSTAND000024A | Standard |  | X | X | O |
